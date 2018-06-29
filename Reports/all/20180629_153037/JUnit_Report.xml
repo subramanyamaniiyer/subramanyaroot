@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="all" time="32" tests="1" failures="0" errors="0">
+   <testsuite name="all" tests="1" failures="0" errors="0" time="32" timestamp="2018-06-29 15:30:43" hostname="smaniiyer - pVDPERVM019.triaddigital.local" id="Test Suites/all">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\smaniiyer\\Katalon Studio\\gitcheckout_01_CLX_Q9057\\subramanyaroot\\Reports\\all\\20180629_153037"/>
+         <property name="logFiles" value="C:\\Users\\smaniiyer\\Katalon Studio\\gitcheckout_01_CLX_Q9057\\subramanyaroot\\Reports\\all\\20180629_153037\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="smaniiyer - pVDPERVM019.triaddigital.local"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Firefox 54.0"/>
+         <property name="hostAddress" value="10.2.70.215"/>
+         <property name="sessionId" value="fa5d1a70-10c8-46bc-957b-fd2172de0202"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/regg" classname="Test Cases/regg" status="PASSED">
+         <system-out><![CDATA[2018-06-29 15:30:44 - [TEST_CASE][PASSED] - Test Cases/regg: Test Cases/regg
+
+2018-06-29 15:30:44 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-06-29 15:31:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-06-29 15:31:04 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://staging-walmart.triadretail.net/BritaLonglast' successfully
+
+2018-06-29 15:31:11 - [MESSAGE][PASSED] - Navigate to 'https://staging-walmart.triadretail.net/BritaLonglast' successfully
+
+2018-06-29 15:31:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Brita_Longlast/ul_12' is clicked on
+
+2018-06-29 15:31:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Brita_Longlast/ul_12' is clicked on
+
+2018-06-29 15:31:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Brita_Longlast/h2_FIND THE PERFECT BRITA FOR' is clicked on
+
+2018-06-29 15:31:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Brita_Longlast/h2_FIND THE PERFECT BRITA FOR' is clicked on
+
+2018-06-29 15:31:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Brita_Longlast/img_trm-desktop' is clicked on
+
+2018-06-29 15:31:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Brita_Longlast/img_trm-desktop' is clicked on
+
+2018-06-29 15:31:13 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-06-29 15:31:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-29 15:30:43 - [TEST_SUITE][PASSED] - all: Test Cases/regg]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
