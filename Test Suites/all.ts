@@ -4,11 +4,16 @@
    <name>all</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-06-29T15:30:38</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <testSuiteGuid>8646bb66-1ae9-4034-99a9-6946f50e10ac</testSuiteGuid>
+   <testSuiteGuid>1025ed0e-ebd8-4392-a844-69819f6574d0</testSuiteGuid>
+   <testCaseLink>
+      <guid>d260c495-de19-4603-a3b4-d31b9861ef13</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/regg</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
