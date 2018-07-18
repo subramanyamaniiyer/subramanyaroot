@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>video_jw-video jw-reset</name>
+   <name>div_Folders binders  expanding</name>
    <tag></tag>
-   <elementGuidId>db7b43b5-0ebe-4788-9edf-039b2fe5a23c</elementGuidId>
+   <elementGuidId>fcf4371b-d7cc-4d70-99e5-e7848fbe1f2c</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,34 +11,40 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>video</value>
+      <value>div</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>jw-video jw-reset</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>jw-loaded</name>
-      <type>Main</type>
-      <value>data</value>
+      <value>trm-product-head</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>src</name>
+      <name>text</name>
       <type>Main</type>
-      <value>https://content.jwplatform.com/videos/28DFxS10-203yiWPc.mp4</value>
+      <value>
+                    
+                        Folders, binders &amp; expanding files
+                        Shop all
+                    
+                    
+                         
+                           
+                    
+                     
+                        Folders, binders &amp; expanding files
+                        Shop all
+                    
+                </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;jwvid-c1f90133-024e-4475-9070-64adb7fda59c&quot;)/div[@class=&quot;jw-media jw-reset&quot;]/video[@class=&quot;jw-video jw-reset&quot;]</value>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-pagewrap&quot;]/div[@class=&quot;trm-container&quot;]/div[@class=&quot;trm-inner-container&quot;]/div[@class=&quot;trm-product-section&quot;]/div[@class=&quot;trm-product-head&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img (4)</name>
+   <name>img_trm-desktop</name>
    <tag></tag>
-   <elementGuidId>fe5eb808-582a-4181-867b-3cec4f9b3b66</elementGuidId>
+   <elementGuidId>f4996371-dbb3-4ba7-b712-8d0ff9cb8f54</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,20 +18,20 @@
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/MediaOMP/2018/KEL/01_KEL_R4475_KOGPFrozen/waffles/img/icon/instagrm.png</value>
+      <value>/MediaOMP/2018/ACB/01_ACB_M5462_ACCOBTS18/img/pov.jpg</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>alt</name>
+      <name>class</name>
       <type>Main</type>
-      <value>Instagram</value>
+      <value>trm-desktop</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-pagewrap&quot;]/div[@class=&quot;trm-container&quot;]/div[@class=&quot;trm-social-mod&quot;]/ul[1]/li[2]/a[@class=&quot;trackMe&quot;]/img[1]</value>
+      <value>id(&quot;jwvid-a5efc515-70b8-464a-95bb-64943ef2df33&quot;)/img[@class=&quot;trm-desktop&quot;]</value>
    </webElementProperties>
 </WebElementEntity>
