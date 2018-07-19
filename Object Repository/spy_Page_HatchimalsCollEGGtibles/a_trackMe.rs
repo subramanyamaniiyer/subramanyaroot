@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_trackMe</name>
+   <tag></tag>
+   <elementGuidId>a76c70d7-9491-4ff9-a421-75a81743ac23</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.walmart.com/browse/hatchimal-colleggtibles/0/0/?_refineresult=true&amp;_be_shelf_id=61504&amp;search_sort=100&amp;facet=shelf_id:61504</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trackMe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>omnitag</name>
+      <type>Main</type>
+      <value>pov-cta</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>s_objectID=&quot;https://www.walmart.com/browse/hatchimal-colleggtibles/0/0/?_refineresult=true&amp;_be_shelf_id=61504_1&quot;;return this.s_oc?this.s_oc(e):true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-pov&quot;]/div[@class=&quot;trm-pov-content&quot;]/a[@class=&quot;trackMe&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

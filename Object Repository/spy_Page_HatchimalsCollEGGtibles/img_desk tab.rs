@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_trm-desktop</name>
+   <name>img_desk tab</name>
    <tag></tag>
-   <elementGuidId>f4996371-dbb3-4ba7-b712-8d0ff9cb8f54</elementGuidId>
+   <elementGuidId>78618090-3bc5-477a-a62a-2f6723e75719</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,20 +18,20 @@
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/MediaOMP/2018/ACB/01_ACB_M5462_ACCOBTS18/img/pov.jpg</value>
+      <value>/MediaOMP/2018/SPM/01_SPM_P5061_HatchBrand/img/pov.jpg</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>trm-desktop</value>
+      <value>desk tab</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;jwvid-a5efc515-70b8-464a-95bb-64943ef2df33&quot;)/img[@class=&quot;trm-desktop&quot;]</value>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-pov&quot;]/img[@class=&quot;desk tab&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

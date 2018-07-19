@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_trm-desktop (2)</name>
+   <name>h2_Shop featured categories</name>
    <tag></tag>
-   <elementGuidId>4cfec529-bf5f-4137-82e6-5f4fb64f0ad6</elementGuidId>
+   <elementGuidId>9a38ce48-61fe-4c3e-bbdb-ee2b171b64b6</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,27 +11,20 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>img</value>
+      <value>h2</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>src</name>
+      <name>text</name>
       <type>Main</type>
-      <value>/MediaOMP/2018/ACB/01_ACB_M5462_ACCOBTS18/img/shop-all-fivestar.jpg</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>trm-desktop</value>
+      <value>Shop featured categories</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-pagewrap&quot;]/div[@class=&quot;trm-container&quot;]/div[@class=&quot;trm-shopall&quot;]/a[@class=&quot;trackMe&quot;]/img[@class=&quot;trm-desktop&quot;]</value>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-featured&quot;]/h2[1]</value>
    </webElementProperties>
 </WebElementEntity>
