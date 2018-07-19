@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img (4)</name>
+   <name>img</name>
    <tag></tag>
-   <elementGuidId>3a487583-df24-461a-b3bd-d78dbc324b0f</elementGuidId>
+   <elementGuidId>fc159b44-123c-4315-a256-cc1d3f104f13</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,13 +18,20 @@
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/MediaOMP/2018/INT/01_INT_R4483_IntelLenov18/img/pin.png</value>
+      <value>/MediaOMP/2018/FRU/01_FRU_N9543_18FRUMarM/img/2018/pov-meneversoft.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>POV1</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-share&quot;]/ul[1]/li[3]/a[@class=&quot;trm-pin cursor_on trackMe&quot;]/img[1]</value>
+      <value>id(&quot;trmWrap&quot;)/div[@class=&quot;trm-content&quot;]/div[@class=&quot;trm-banner&quot;]/div[@class=&quot;banner-slider slick-initialized slick-slider slick-dotted&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;banner-slides bannernew-pov2 bannernew-pov02 banner-2017 banner-2018 slick-slide slick-current slick-active&quot;]/img[1]</value>
    </webElementProperties>
 </WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_trackMe</name>
+   <name>li_women-area trackMe</name>
    <tag></tag>
-   <elementGuidId>502605a2-3a0d-47d8-90b9-bc8c4c6c8d4e</elementGuidId>
+   <elementGuidId>fa3316dc-471a-4729-ae96-23350ac35b43</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,41 +11,34 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>https://www.walmart.com/browse/ideapad-330s/0/0/?_refineresult=true&amp;_be_shelf_id=61096&amp;search_sort=100&amp;facet=shelf_id:61096</value>
+      <value>li</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>trackMe</value>
+      <value>women-area trackMe</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>omnitag</name>
       <type>Main</type>
-      <value>pov-1</value>
+      <value>Tab - ProductTour - Women's</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>omniint</name>
       <type>Main</type>
-      <value>s_objectID=&quot;https://www.walmart.com/browse/ideapad-330s/0/0/?_refineresult=true&amp;_be_shelf_id=61096&amp;search_sor_1&quot;;return this.s_oc?this.s_oc(e):true</value>
+      <value>Interaction</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-pov-section&quot;]/div[@class=&quot;trm-pov-slider&quot;]/div[@class=&quot;trm-pov trm-pov-1&quot;]/a[@class=&quot;trackMe&quot;]</value>
+      <value>id(&quot;trmWrap&quot;)/div[@class=&quot;trm-content&quot;]/div[@class=&quot;trm-productTour&quot;]/div[@class=&quot;trm-product-tab&quot;]/ul[1]/li[@class=&quot;women-area trackMe&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

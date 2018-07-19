@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h2_Shop the IdeaPad 330S</name>
+   <name>h2_EVERSOFT T-SHIRT WITH DUAL</name>
    <tag></tag>
-   <elementGuidId>e9b5ef27-2614-49b0-8104-f5ed8b592393</elementGuidId>
+   <elementGuidId>b604af06-e615-4b35-8f5e-6d00940a6e08</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,13 +18,14 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Shop the IdeaPad 330S</value>
+      <value>EVERSOFT® T-SHIRT WITH DUAL DEFENSETM
+                        </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-products&quot;]/h2[1]</value>
+      <value>id(&quot;trmWrap&quot;)/div[@class=&quot;trm-content&quot;]/div[@class=&quot;trm-banner&quot;]/div[@class=&quot;banner-slider slick-initialized slick-slider slick-dotted&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;banner-slides bannernew-pov2 bannernew-pov02 banner-2017 banner-2018 slick-slide slick-current slick-active&quot;]/div[@class=&quot;toppov-text-3&quot;]/h2[1]</value>
    </webElementProperties>
 </WebElementEntity>

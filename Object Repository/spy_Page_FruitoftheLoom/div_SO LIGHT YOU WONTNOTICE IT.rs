@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Simpler sleek  premiumFeat</name>
+   <name>div_SO LIGHT YOU WONTNOTICE IT</name>
    <tag></tag>
-   <elementGuidId>6d62150b-d13b-4fa1-8866-a45793802ec9</elementGuidId>
+   <elementGuidId>5d95b916-0e1a-49e4-b944-1240aca4addf</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,7 +18,7 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>trm-sleek-content</value>
+      <value>mens-everlight</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,15 +26,36 @@
       <name>text</name>
       <type>Main</type>
       <value>
-					Simpler, sleek &amp; premium
-					Featuring a streamlines chassis with a polished aluminum cover, the IdeaPad 330S is designed to make an impression. Available in Platinum Grey and Midnight Blue.
-				</value>
+                
+                    SO LIGHT YOU WON'TNOTICE IT
+                    All-new EverLight.TM
+                    
+                    
+                        
+                            Shop now
+                        
+                    
+                
+                
+                    
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                     
+                
+            </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-sleeker&quot;]/div[@class=&quot;trm-sleek-slider slick-initialized slick-slider slick-dotted&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;trm-sleek slick-slide slick-current slick-active&quot;]/div[@class=&quot;trm-sleek-content&quot;]</value>
+      <value>id(&quot;trmWrap&quot;)/div[@class=&quot;trm-content&quot;]/div[@class=&quot;trm-productTour&quot;]/div[@class=&quot;product-details-category&quot;]/div[@class=&quot;product-details men-product-details&quot;]/div[@class=&quot;mens-everlight&quot;]</value>
    </webElementProperties>
 </WebElementEntity>
