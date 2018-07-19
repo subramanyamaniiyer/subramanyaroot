@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Tile-linkOverlay js-tile-lin (1)</name>
    <tag></tag>
-   <elementGuidId>87468b59-cc51-4e16-91f3-a63a1cb9ea56</elementGuidId>
+   <elementGuidId>84e0e5db-dfc1-47d2-8f7f-76f2942cbc72</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -25,7 +25,7 @@
       <matchCondition>equals</matchCondition>
       <name>omnitag</name>
       <type>Main</type>
-      <value>Add to cart - 350937740 - product</value>
+      <value>Add to cart - 28805939 - product</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://www.walmart.com/ip/350937740</value>
+      <value>https://www.walmart.com/ip/28805939</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,14 +60,14 @@
       <matchCondition>equals</matchCondition>
       <name>data-uid</name>
       <type>Main</type>
-      <value>350937740-productTile</value>
+      <value>28805939-productTile</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>s_objectID=&quot;https://www.walmart.com/ip/350937740_1&quot;;return this.s_oc?this.s_oc(e):true</value>
+      <value>s_objectID=&quot;https://www.walmart.com/ip/28805939_1&quot;;return this.s_oc?this.s_oc(e):true</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
