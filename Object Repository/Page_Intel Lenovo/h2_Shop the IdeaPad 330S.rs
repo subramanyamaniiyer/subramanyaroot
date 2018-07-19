@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_trm-desktop</name>
+   <name>h2_Shop the IdeaPad 330S</name>
    <tag></tag>
-   <elementGuidId>f4996371-dbb3-4ba7-b712-8d0ff9cb8f54</elementGuidId>
+   <elementGuidId>07138dab-007b-4003-a2e2-23aba562cb5e</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,27 +11,20 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>img</value>
+      <value>h2</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>src</name>
+      <name>text</name>
       <type>Main</type>
-      <value>/MediaOMP/2018/ACB/01_ACB_M5462_ACCOBTS18/img/pov.jpg</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>trm-desktop</value>
+      <value>Shop the IdeaPad 330S</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;jwvid-a5efc515-70b8-464a-95bb-64943ef2df33&quot;)/img[@class=&quot;trm-desktop&quot;]</value>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-products&quot;]/h2[1]</value>
    </webElementProperties>
 </WebElementEntity>
