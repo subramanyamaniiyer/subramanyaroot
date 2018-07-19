@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h2_Shop the IdeaPad 330S</name>
+   <name>h2_Find your favorite TeavanaT</name>
    <tag></tag>
-   <elementGuidId>07138dab-007b-4003-a2e2-23aba562cb5e</elementGuidId>
+   <elementGuidId>bee132b8-07a1-4302-86f4-d4a75b842962</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,13 +18,13 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Shop the IdeaPad 330S</value>
+      <value>Find your favorite TeavanaTM/MC taste</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-products&quot;]/h2[1]</value>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-page-wrap&quot;]/div[@class=&quot;trm-product-sctn&quot;]/h2[1]</value>
    </webElementProperties>
 </WebElementEntity>

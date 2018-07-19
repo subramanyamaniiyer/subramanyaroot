@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>ul_123</name>
+   <name>img_trm-dsk</name>
    <tag></tag>
-   <elementGuidId>b50749f9-d147-4220-9977-6c2ba0f4e6ab</elementGuidId>
+   <elementGuidId>a1cd62dc-17fc-4077-b926-300ae1f2b0da</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,34 +11,34 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>ul</value>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/MediaOMP/2018/SBU/01_SBU_Q1094_Starbteava/img/pov.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>pov</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>carousel-paginator-list</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>tablist</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>123</value>
+      <value>trm-dsk</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-efficient&quot;]/div[@class=&quot;trm-sleek-slider slick-initialized slick-slider slick-dotted&quot;]/ul[@class=&quot;carousel-paginator-list&quot;]</value>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-page-wrap&quot;]/div[@class=&quot;trm-pov-wrap&quot;]/a[@class=&quot;trm-cta trm-pov-one trackMe&quot;]/img[@class=&quot;trm-dsk&quot;]</value>
    </webElementProperties>
 </WebElementEntity>
