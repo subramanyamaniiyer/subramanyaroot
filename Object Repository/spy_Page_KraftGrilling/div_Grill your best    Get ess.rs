@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>ul_123</name>
+   <name>div_Grill your best    Get ess</name>
    <tag></tag>
-   <elementGuidId>b50749f9-d147-4220-9977-6c2ba0f4e6ab</elementGuidId>
+   <elementGuidId>113436e7-4943-4f4b-82c8-bcf01ccdf154</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,34 +11,32 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>ul</value>
+      <value>div</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>carousel-paginator-list</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>tablist</value>
+      <value>trm-pov-overlay</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>123</value>
+      <value>
+					    Grill your best
+					    Get essentials for cooking outdoors.
+					    
+                        
+				    </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-efficient&quot;]/div[@class=&quot;trm-sleek-slider slick-initialized slick-slider slick-dotted&quot;]/ul[@class=&quot;carousel-paginator-list&quot;]</value>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-pagewrap&quot;]/div[@class=&quot;trm-container&quot;]/div[@class=&quot;trm-pov-module&quot;]/div[@class=&quot;trm-pov-slider&quot;]/div[@class=&quot;trm-pov-slide&quot;]/div[@class=&quot;trm-pov-overlay&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

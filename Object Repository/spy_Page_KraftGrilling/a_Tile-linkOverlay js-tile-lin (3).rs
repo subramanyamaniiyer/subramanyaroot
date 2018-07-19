@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Tile-linkOverlay js-tile-lin (1)</name>
+   <name>a_Tile-linkOverlay js-tile-lin (3)</name>
    <tag></tag>
-   <elementGuidId>87468b59-cc51-4e16-91f3-a63a1cb9ea56</elementGuidId>
+   <elementGuidId>c615c6fb-b2c6-4cad-90aa-171f81e5b1cb</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -25,7 +25,7 @@
       <matchCondition>equals</matchCondition>
       <name>omnitag</name>
       <type>Main</type>
-      <value>Add to cart - 350937740 - product</value>
+      <value>Add to cart - 44901111 - product</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://www.walmart.com/ip/350937740</value>
+      <value>https://www.walmart.com/ip/44901111</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,20 +60,20 @@
       <matchCondition>equals</matchCondition>
       <name>data-uid</name>
       <type>Main</type>
-      <value>350937740-productTile</value>
+      <value>44901111-productTile</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>s_objectID=&quot;https://www.walmart.com/ip/350937740_1&quot;;return this.s_oc?this.s_oc(e):true</value>
+      <value>s_objectID=&quot;https://www.walmart.com/ip/44901111_1&quot;;return this.s_oc?this.s_oc(e):true</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;dynpricing-scroller&quot;)/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/span[@class=&quot;prod slick-slide slick-active&quot;]/div[@class=&quot;Tile js-tile trm-dynpricing&quot;]/a[@class=&quot;Tile-linkOverlay js-tile-link-overlay trackMe&quot;]</value>
+      <value>id(&quot;dynpricing-scroller1&quot;)/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/span[@class=&quot;prod slick-slide slick-active&quot;]/div[@class=&quot;Tile js-tile trm-dynpricing&quot;]/a[@class=&quot;Tile-linkOverlay js-tile-link-overlay trackMe&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

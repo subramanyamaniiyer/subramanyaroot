@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Tile-linkOverlay js-tile-lin</name>
+   <name>a_Add to cart</name>
    <tag></tag>
-   <elementGuidId>69a55e28-a377-40a9-8d9f-5d3311811e8a</elementGuidId>
+   <elementGuidId>d77d9929-437e-4bea-8f11-27c34f78970c</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -14,18 +14,32 @@
       <value>a</value>
    </webElementProperties>
    <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-href</name>
+      <type>Main</type>
+      <value>//affil.walmart.com/cart/addToCart?items=10535859&amp;format=jsonp&amp;walmartonly=1</value>
+   </webElementProperties>
+   <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>Tile-linkOverlay js-tile-link-overlay trackMe</value>
+      <value>trm-prod-link btn-primary trm-atc trackMe btn-progress</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>omnitag</name>
       <type>Main</type>
-      <value>Add to cart - 132791958 - product</value>
+      <value>Add to cart - 10535859</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,45 +49,24 @@
       <value>link</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>https://www.walmart.com/ip/132791958</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-hidden</name>
-      <type>Main</type>
-      <value>true</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-uid</name>
-      <type>Main</type>
-      <value>132791958-productTile</value>
-   </webElementProperties>
-   <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>s_objectID=&quot;https://www.walmart.com/ip/132791958_1&quot;;return this.s_oc?this.s_oc(e):true</value>
+      <value>s_objectID=&quot;https://staging-walmart.triadretail.net/KraftGrilling#_1&quot;;return this.s_oc?this.s_oc(e):true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to cart </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;dynpricing-scroller&quot;)/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/span[@class=&quot;prod slick-slide slick-current slick-active&quot;]/div[@class=&quot;Tile js-tile trm-dynpricing&quot;]/a[@class=&quot;Tile-linkOverlay js-tile-link-overlay trackMe&quot;]</value>
+      <value>id(&quot;dynpricing-scroller1&quot;)/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/span[@class=&quot;prod slick-slide slick-current slick-active&quot;]/div[@class=&quot;Tile js-tile trm-dynpricing&quot;]/div[@class=&quot;Tile-content&quot;]/a[@class=&quot;trm-prod-link btn-primary trm-atc trackMe btn-progress&quot;]</value>
    </webElementProperties>
 </WebElementEntity>
