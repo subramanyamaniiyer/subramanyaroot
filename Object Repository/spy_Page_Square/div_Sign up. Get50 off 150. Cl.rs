@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Notebooks composition book</name>
+   <name>div_Sign up. Get50 off 150. Cl</name>
    <tag></tag>
-   <elementGuidId>59642d78-5d9a-4e4f-8f4b-2c2d1c790ac8</elementGuidId>
+   <elementGuidId>84deb001-59ea-4e49-ad41-02da2e59ecd2</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,7 +18,7 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>trm-product-head</value>
+      <value>w33</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,21 +26,17 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                    
-                         
-                           
-                    
-                    
-                        Notebooks, composition books &amp; paper  
-                        Shop all
-                    
-                </value>
+
+ Sign up. Get $50 off $150. 
+
+Click to learn more.
+</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-pagewrap&quot;]/div[@class=&quot;trm-container&quot;]/div[@class=&quot;trm-inner-container&quot;]/div[@class=&quot;trm-product-section&quot;]/div[@class=&quot;trm-product-head&quot;]</value>
+      <value>id(&quot;footer_www&quot;)/div[@class=&quot;v5Footer&quot;]/div[@class=&quot;promofooter section&quot;]/div[@class=&quot;w33&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

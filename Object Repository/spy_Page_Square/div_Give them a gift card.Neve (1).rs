@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Folders binders  expanding</name>
+   <name>div_Give them a gift card.Neve (1)</name>
    <tag></tag>
-   <elementGuidId>fcf4371b-d7cc-4d70-99e5-e7848fbe1f2c</elementGuidId>
+   <elementGuidId>52456c69-00cd-4ead-81d6-f31072a4390e</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,7 +18,7 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>trm-product-head</value>
+      <value>w33</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,25 +26,15 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                    
-                        Folders, binders &amp; expanding files
-                        Shop all
-                    
-                    
-                         
-                           
-                    
-                     
-                        Folders, binders &amp; expanding files
-                        Shop all
-                    
-                </value>
+Give them a gift card.
+Never expires, ships for free
+</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-pagewrap&quot;]/div[@class=&quot;trm-container&quot;]/div[@class=&quot;trm-inner-container&quot;]/div[@class=&quot;trm-product-section&quot;]/div[@class=&quot;trm-product-head&quot;]</value>
+      <value>id(&quot;footer_www&quot;)/div[@class=&quot;v5Footer&quot;]/div[@class=&quot;promofooter section&quot;]/div[@class=&quot;w33&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

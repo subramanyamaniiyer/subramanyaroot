@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Notebooks composition book</name>
+   <name>div_Give them a gift card.Neve</name>
    <tag></tag>
-   <elementGuidId>8b9b1a0c-2f94-4f19-9fcc-133bf3344044</elementGuidId>
+   <elementGuidId>6e567e23-0b9b-403f-855f-bff39a25fba5</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,7 +18,7 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>trm-product-head</value>
+      <value>promofooter section</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,21 +26,26 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                    
-                         
-                           
-                    
-                    
-                        Notebooks, composition books &amp; paper  
-                        Shop all
-                    
-                </value>
+
+Give them a gift card.
+Never expires, ships for free
+
+
+
+
+ Sign up. Get $50 off $150. 
+
+Click to learn more.
+
+
+                2% back in rewards on your favorite  supplies, furniture, technology &amp; more
+</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-pagewrap&quot;]/div[@class=&quot;trm-container&quot;]/div[@class=&quot;trm-inner-container&quot;]/div[@class=&quot;trm-product-section&quot;]/div[@class=&quot;trm-product-head&quot;]</value>
+      <value>id(&quot;footer_www&quot;)/div[@class=&quot;v5Footer&quot;]/div[@class=&quot;promofooter section&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

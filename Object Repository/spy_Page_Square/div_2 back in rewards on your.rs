@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_trm-desktop</name>
+   <name>div_2 back in rewards on your</name>
    <tag></tag>
-   <elementGuidId>f4996371-dbb3-4ba7-b712-8d0ff9cb8f54</elementGuidId>
+   <elementGuidId>c813d1ee-61af-4d64-b7ea-d57a7a80620d</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,27 +11,34 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>img</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>src</name>
-      <type>Main</type>
-      <value>/MediaOMP/2018/ACB/01_ACB_M5462_ACCOBTS18/img/pov.jpg</value>
+      <value>div</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>trm-desktop</value>
+      <value>w33</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>footerOdRewards</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                2% back in rewards on your favorite  supplies, furniture, technology &amp; more</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;jwvid-a5efc515-70b8-464a-95bb-64943ef2df33&quot;)/img[@class=&quot;trm-desktop&quot;]</value>
+      <value>id(&quot;footerOdRewards&quot;)</value>
    </webElementProperties>
 </WebElementEntity>
