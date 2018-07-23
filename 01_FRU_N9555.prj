@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>01_FRU_N9555</name>
+   <tag></tag>
+   <UUID>cd68066f-782e-4bb6-83d8-c026d4dc52e4</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

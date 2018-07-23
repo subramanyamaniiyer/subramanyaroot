@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_mens-brief trackMe</name>
+   <tag></tag>
+   <elementGuidId>918a6289-edcb-43b7-90cc-c6bf4413b7c5</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mens-brief trackMe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>omniint</name>
+      <type>Main</type>
+      <value>Interaction</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>omnitag</name>
+      <type>Main</type>
+      <value>ProductTour-mens-shortsleeve</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hash</name>
+      <type>Main</type>
+      <value>mens-crew</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;trmWrap&quot;)/div[@class=&quot;trm-content&quot;]/div[@class=&quot;trm-productTour&quot;]/div[@class=&quot;trm-prod-category&quot;]/div[@class=&quot;product-nav mens-tabs&quot;]/ul[1]/li[@class=&quot;mens-brief trackMe&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
