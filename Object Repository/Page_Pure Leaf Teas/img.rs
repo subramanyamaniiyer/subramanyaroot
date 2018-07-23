@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>2c853e79-2f7a-4e1f-b42e-508d589a7c03</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/MediaOMP/2018/PEP/01_PEP_Q2225_PureLeafSumm/img/blog-avatar.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Blogger Avatar</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-pagewrap&quot;]/div[@class=&quot;trm-container&quot;]/div[@class=&quot;trm-blogger-mod&quot;]/img[1]</value>
+   </webElementProperties>
+</WebElementEntity>
