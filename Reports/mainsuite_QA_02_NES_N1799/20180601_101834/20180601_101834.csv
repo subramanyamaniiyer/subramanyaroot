@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+mainsuite_QA_02_NES_N1799,Firefox 54.0,,2018-06-01 10:18:39,2018-06-01 10:19:23,44.598s,FAILED
+,,,,,,
+Test Cases/regression_02_NES_N1799,Firefox 54.0,,2018-06-01 10:18:40,2018-06-01 10:19:21,41.066s,FAILED
+openBrowser,Firefox 54.0,,2018-06-01 10:18:41,2018-06-01 10:19:10,29.122s,PASSED
+navigateToUrl,Firefox 54.0,,2018-06-01 10:19:10,2018-06-01 10:19:17,6.760s,PASSED
+maximizeWindow,Firefox 54.0,,2018-06-01 10:19:17,2018-06-01 10:19:17,0.149s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:19:17,2018-06-01 10:19:17,0.277s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:19:17,2018-06-01 10:19:17,0.066s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:19:17,2018-06-01 10:19:18,0.080s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:19:18,2018-06-01 10:19:18,0.065s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:19:18,2018-06-01 10:19:18,0.195s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:19:18,2018-06-01 10:19:18,0.128s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:19:18,2018-06-01 10:19:18,0.189s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:19:18,2018-06-01 10:19:18,0.106s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:19:18,2018-06-01 10:19:18,0.119s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:19:18,2018-06-01 10:19:18,0.127s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:19:18,2018-06-01 10:19:19,0.086s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:19:19,2018-06-01 10:19:19,0.076s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:19:19,2018-06-01 10:19:19,0.110s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:19:19,2018-06-01 10:19:19,0.055s,PASSED
+click,Firefox 54.0,,2018-06-01 10:19:19,2018-06-01 10:19:21,2.225s,FAILED

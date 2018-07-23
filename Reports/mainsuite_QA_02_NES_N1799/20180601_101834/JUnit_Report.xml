@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="mainsuite_QA_02_NES_N1799" time="44" tests="0" failures="1" errors="0">
+   <testsuite name="mainsuite_QA_02_NES_N1799" tests="0" failures="1" errors="0" time="44" timestamp="2018-06-01 10:18:39" hostname="smaniiyer - pVDPERVM019.triaddigital.local" id="Test Suites/mainsuite_QA_02_NES_N1799">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\smaniiyer\\Katalon Studio\\sc_02_NES_N1799\\Reports\\mainsuite_QA_02_NES_N1799\\20180601_101834"/>
+         <property name="logFiles" value="C:\\Users\\smaniiyer\\Katalon Studio\\sc_02_NES_N1799\\Reports\\mainsuite_QA_02_NES_N1799\\20180601_101834\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\smaniiyer\\Katalon Studio\\sc_02_NES_N1799\\Reports\\mainsuite_QA_02_NES_N1799\\20180601_101834\\1527828559302.png"/>
+         <property name="hostName" value="smaniiyer - pVDPERVM019.triaddigital.local"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Firefox 54.0"/>
+         <property name="hostAddress" value="10.2.70.215"/>
+         <property name="sessionId" value="a86b6244-08cc-4768-b86d-b666bddb18ce"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/regression_02_NES_N1799" classname="Test Cases/regression_02_NES_N1799" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)"/>
+         <system-out><![CDATA[2018-06-01 10:18:40 - [TEST_CASE][FAILED] - Test Cases/regression_02_NES_N1799: Test Cases/regression_02_NES_N1799 FAILED because (of) Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+
+2018-06-01 10:18:41 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-06-01 10:19:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-06-01 10:19:10 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://staging-samsclub.triadretail.net/Featured-Brand/Purina/Pet-Shop/' successfully
+
+2018-06-01 10:19:17 - [MESSAGE][PASSED] - Navigate to 'https://staging-samsclub.triadretail.net/Featured-Brand/Purina/Pet-Shop/' successfully
+
+2018-06-01 10:19:17 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-06-01 10:19:17 - [MESSAGE][PASSED] - Current window maximized
+
+2018-06-01 10:19:17 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/div_pov__pets' is present
+
+2018-06-01 10:19:17 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/div_pov__pets' is present
+
+2018-06-01 10:19:17 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/div_sc_logo_desk samsclub_logo' is present
+
+2018-06-01 10:19:17 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/div_sc_logo_desk samsclub_logo' is present
+
+2018-06-01 10:19:17 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/div_shop__animals' is present
+
+2018-06-01 10:19:18 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/div_shop__animals' is present
+
+2018-06-01 10:19:18 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/a_SCROLL DOWN FOR MORE INFO' is present
+
+2018-06-01 10:19:18 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/a_SCROLL DOWN FOR MORE INFO' is present
+
+2018-06-01 10:19:18 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/a_Subscribe and save.' is present
+
+2018-06-01 10:19:18 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/a_Subscribe and save.' is present
+
+2018-06-01 10:19:18 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' is present
+
+2018-06-01 10:19:18 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' is present
+
+2018-06-01 10:19:18 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/div_Save time with Club Pickup' is present
+
+2018-06-01 10:19:18 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/div_Save time with Club Pickup' is present
+
+2018-06-01 10:19:18 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/h2_textverify' is present
+
+2018-06-01 10:19:18 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/h2_textverify' is present
+
+2018-06-01 10:19:18 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/img (1)' is present
+
+2018-06-01 10:19:18 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/img (1)' is present
+
+2018-06-01 10:19:18 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/img (2)' is present
+
+2018-06-01 10:19:18 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/img (2)' is present
+
+2018-06-01 10:19:18 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/img (3)' is present
+
+2018-06-01 10:19:19 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/img (3)' is present
+
+2018-06-01 10:19:19 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/img' is present
+
+2018-06-01 10:19:19 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/img' is present
+
+2018-06-01 10:19:19 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/img_desktop pov__products' is present
+
+2018-06-01 10:19:19 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/img_desktop pov__products' is present
+
+2018-06-01 10:19:19 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/strong_club-size options from' is present
+
+2018-06-01 10:19:19 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/strong_club-size options from' is present
+
+2018-06-01 10:19:19 - [TEST_STEP][FAILED] - click: Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+
+2018-06-01 10:19:19 - [MESSAGE][WARNING] - Test object with id 'Object Repository/Page_SamsClub.com - In Clubs Now -/a_next' does not exist
+
+2018-06-01 10:19:19 - [MESSAGE][WARNING] - Test object with id 'Object Repository/' does not exist
+
+2018-06-01 10:19:21 - [MESSAGE][FAILED] - Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)
+[[ATTACHMENT|C:\\Users\\smaniiyer\\Katalon Studio\\sc_02_NES_N1799\\Reports\\mainsuite_QA_02_NES_N1799\\20180601_101834\\1527828559302.png]]]]></system-out>
+         <system-err><![CDATA[2018-06-01 10:18:40 - [TEST_CASE][FAILED] - Test Cases/regression_02_NES_N1799: Test Cases/regression_02_NES_N1799 FAILED because (of) Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-01 10:18:39 - [TEST_SUITE][FAILED] - mainsuite_QA_02_NES_N1799: Test Cases/regression_02_NES_N1799 FAILED because (of) Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)]]></system-out>
+      <system-err><![CDATA[2018-06-01 10:18:39 - [TEST_SUITE][FAILED] - mainsuite_QA_02_NES_N1799: Test Cases/regression_02_NES_N1799 FAILED because (of) Unable to click on object (Root cause: java.lang.IllegalArgumentException: Object is null)]]></system-err>
+   </testsuite>
+</testsuites>

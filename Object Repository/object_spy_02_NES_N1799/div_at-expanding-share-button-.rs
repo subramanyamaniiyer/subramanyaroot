@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_at-expanding-share-button-</name>
+   <tag></tag>
+   <elementGuidId>401fce95-a516-45a5-9653-6b502fd5d7a0</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>at-expanding-share-button-toggle-bg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;at-expanding-share-button&quot;)/div[@class=&quot;at-expanding-share-button-toggle&quot;]/a[@class=&quot;at-expanding-share-button-toggle-btn&quot;]/div[@class=&quot;at-expanding-share-button-toggle-bg&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

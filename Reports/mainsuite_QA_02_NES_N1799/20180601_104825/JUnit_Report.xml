@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="mainsuite_QA_02_NES_N1799" time="27" tests="1" failures="0" errors="0">
+   <testsuite name="mainsuite_QA_02_NES_N1799" tests="1" failures="0" errors="0" time="27" timestamp="2018-06-01 10:48:28" hostname="smaniiyer - pVDPERVM019.triaddigital.local" id="Test Suites/mainsuite_QA_02_NES_N1799">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\smaniiyer\\Katalon Studio\\sc_02_NES_N1799\\Reports\\mainsuite_QA_02_NES_N1799\\20180601_104825"/>
+         <property name="logFiles" value="C:\\Users\\smaniiyer\\Katalon Studio\\sc_02_NES_N1799\\Reports\\mainsuite_QA_02_NES_N1799\\20180601_104825\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="smaniiyer - pVDPERVM019.triaddigital.local"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 66.0.3359.181"/>
+         <property name="hostAddress" value="10.2.70.215"/>
+         <property name="sessionId" value="582263f6966d4138035691648373b907"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/regression_02_NES_N1799" classname="Test Cases/regression_02_NES_N1799" status="PASSED">
+         <system-out><![CDATA[2018-06-01 10:48:29 - [TEST_CASE][PASSED] - Test Cases/regression_02_NES_N1799: Test Cases/regression_02_NES_N1799
+
+2018-06-01 10:48:30 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-06-01 10:48:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-06-01 10:48:42 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://staging-samsclub.triadretail.net/Featured-Brand/Purina/Pet-Shop/' successfully
+
+2018-06-01 10:48:48 - [MESSAGE][PASSED] - Navigate to 'https://staging-samsclub.triadretail.net/Featured-Brand/Purina/Pet-Shop/' successfully
+
+2018-06-01 10:48:48 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-06-01 10:48:49 - [MESSAGE][PASSED] - Current window maximized
+
+2018-06-01 10:48:49 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/div_pov__pets' is present
+
+2018-06-01 10:48:50 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/div_pov__pets' is present
+
+2018-06-01 10:48:50 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/div_sc_logo_desk samsclub_logo' is present
+
+2018-06-01 10:48:50 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/div_sc_logo_desk samsclub_logo' is present
+
+2018-06-01 10:48:50 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/div_shop__animals' is present
+
+2018-06-01 10:48:50 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/div_shop__animals' is present
+
+2018-06-01 10:48:50 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/a_SCROLL DOWN FOR MORE INFO' is present
+
+2018-06-01 10:48:50 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/a_SCROLL DOWN FOR MORE INFO' is present
+
+2018-06-01 10:48:50 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/a_Subscribe and save.' is present
+
+2018-06-01 10:48:51 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/a_Subscribe and save.' is present
+
+2018-06-01 10:48:51 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/div_Save time with Club Pickup' is present
+
+2018-06-01 10:48:51 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/div_Save time with Club Pickup' is present
+
+2018-06-01 10:48:51 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/h2_textverify' is present
+
+2018-06-01 10:48:51 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/h2_textverify' is present
+
+2018-06-01 10:48:51 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/img (1)' is present
+
+2018-06-01 10:48:51 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/img (1)' is present
+
+2018-06-01 10:48:51 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/img (2)' is present
+
+2018-06-01 10:48:51 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/img (2)' is present
+
+2018-06-01 10:48:51 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/img (3)' is present
+
+2018-06-01 10:48:51 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/img (3)' is present
+
+2018-06-01 10:48:51 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/img' is present
+
+2018-06-01 10:48:51 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/img' is present
+
+2018-06-01 10:48:51 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/img_desktop pov__products' is present
+
+2018-06-01 10:48:51 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/img_desktop pov__products' is present
+
+2018-06-01 10:48:51 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/strong_club-size options from' is present
+
+2018-06-01 10:48:51 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/strong_club-size options from' is present
+
+2018-06-01 10:48:51 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-06-01 10:48:55 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-01 10:48:28 - [TEST_SUITE][PASSED] - mainsuite_QA_02_NES_N1799: Test Cases/regression_02_NES_N1799]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

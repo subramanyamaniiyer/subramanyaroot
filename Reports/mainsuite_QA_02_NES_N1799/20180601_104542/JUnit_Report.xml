@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="mainsuite_QA_02_NES_N1799" time="36" tests="0" failures="1" errors="0">
+   <testsuite name="mainsuite_QA_02_NES_N1799" tests="0" failures="1" errors="0" time="36" timestamp="2018-06-01 10:45:46" hostname="smaniiyer - pVDPERVM019.triaddigital.local" id="Test Suites/mainsuite_QA_02_NES_N1799">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\smaniiyer\\Katalon Studio\\sc_02_NES_N1799\\Reports\\mainsuite_QA_02_NES_N1799\\20180601_104542"/>
+         <property name="logFiles" value="C:\\Users\\smaniiyer\\Katalon Studio\\sc_02_NES_N1799\\Reports\\mainsuite_QA_02_NES_N1799\\20180601_104542\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\smaniiyer\\Katalon Studio\\sc_02_NES_N1799\\Reports\\mainsuite_QA_02_NES_N1799\\20180601_104542\\1527830176768.png, C:\\Users\\smaniiyer\\Katalon Studio\\sc_02_NES_N1799\\Reports\\mainsuite_QA_02_NES_N1799\\20180601_104542\\1527830177753.png"/>
+         <property name="hostName" value="smaniiyer - pVDPERVM019.triaddigital.local"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 66.0.3359.181"/>
+         <property name="hostAddress" value="10.2.70.215"/>
+         <property name="sessionId" value="861e4c70e9e719bf136405a4dbbb215d"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/regression_02_NES_N1799" classname="Test Cases/regression_02_NES_N1799" status="FAILED">
+         <failure type="FAILED" message="Unable to verify object 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' located by 'By.xpath: id(&quot;at-expanding-share-button&quot;)/div[@class=&quot;at-expanding-share-button-toggle&quot;]/a[@class=&quot;at-expanding-share-button-toggle-btn&quot;]/div[@class=&quot;at-expanding-share-button-toggle-bg&quot;]' not found)"/>
+         <system-out><![CDATA[2018-06-01 10:45:47 - [TEST_CASE][FAILED] - Test Cases/regression_02_NES_N1799: Test Cases/regression_02_NES_N1799 FAILED because (of) Unable to verify object 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' located by 'By.xpath: id("at-expanding-share-button")/div[@class="at-expanding-share-button-toggle"]/a[@class="at-expanding-share-button-toggle-btn"]/div[@class="at-expanding-share-button-toggle-bg"]' not found)
+
+2018-06-01 10:45:48 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-06-01 10:45:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-06-01 10:45:56 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://staging-samsclub.triadretail.net/Featured-Brand/Purina/Pet-Shop/' successfully
+
+2018-06-01 10:46:02 - [MESSAGE][PASSED] - Navigate to 'https://staging-samsclub.triadretail.net/Featured-Brand/Purina/Pet-Shop/' successfully
+
+2018-06-01 10:46:02 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-06-01 10:46:03 - [MESSAGE][PASSED] - Current window maximized
+
+2018-06-01 10:46:03 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/div_pov__pets' is present
+
+2018-06-01 10:46:04 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/div_pov__pets' is present
+
+2018-06-01 10:46:04 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/div_sc_logo_desk samsclub_logo' is present
+
+2018-06-01 10:46:04 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/div_sc_logo_desk samsclub_logo' is present
+
+2018-06-01 10:46:04 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/div_shop__animals' is present
+
+2018-06-01 10:46:04 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/div_shop__animals' is present
+
+2018-06-01 10:46:04 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/a_SCROLL DOWN FOR MORE INFO' is present
+
+2018-06-01 10:46:04 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/a_SCROLL DOWN FOR MORE INFO' is present
+
+2018-06-01 10:46:04 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/object_spy_02_NES_N1799/a_Subscribe and save.' is present
+
+2018-06-01 10:46:04 - [MESSAGE][PASSED] - Object 'Object Repository/object_spy_02_NES_N1799/a_Subscribe and save.' is present
+
+2018-06-01 10:46:04 - [TEST_STEP][FAILED] - verifyElementPresent: Unable to verify object 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' located by 'By.xpath: id("at-expanding-share-button")/div[@class="at-expanding-share-button-toggle"]/a[@class="at-expanding-share-button-toggle-btn"]/div[@class="at-expanding-share-button-toggle-bg"]' not found)
+
+2018-06-01 10:46:17 - [MESSAGE][FAILED] - com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' located by 'By.xpath: id("at-expanding-share-button")/div[@class="at-expanding-share-button-toggle"]/a[@class="at-expanding-share-button-toggle-btn"]/div[@class="at-expanding-share-button-toggle-bg"]' not found
+[[ATTACHMENT|C:\\Users\\smaniiyer\\Katalon Studio\\sc_02_NES_N1799\\Reports\\mainsuite_QA_02_NES_N1799\\20180601_104542\\1527830176768.png]]
+
+2018-06-01 10:46:18 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' located by 'By.xpath: id("at-expanding-share-button")/div[@class="at-expanding-share-button-toggle"]/a[@class="at-expanding-share-button-toggle-btn"]/div[@class="at-expanding-share-button-toggle-bg"]' not found)
+[[ATTACHMENT|C:\\Users\\smaniiyer\\Katalon Studio\\sc_02_NES_N1799\\Reports\\mainsuite_QA_02_NES_N1799\\20180601_104542\\1527830177753.png]]]]></system-out>
+         <system-err><![CDATA[2018-06-01 10:45:47 - [TEST_CASE][FAILED] - Test Cases/regression_02_NES_N1799: Test Cases/regression_02_NES_N1799 FAILED because (of) Unable to verify object 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' located by 'By.xpath: id("at-expanding-share-button")/div[@class="at-expanding-share-button-toggle"]/a[@class="at-expanding-share-button-toggle-btn"]/div[@class="at-expanding-share-button-toggle-bg"]' not found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-01 10:45:46 - [TEST_SUITE][FAILED] - mainsuite_QA_02_NES_N1799: Test Cases/regression_02_NES_N1799 FAILED because (of) Unable to verify object 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' located by 'By.xpath: id("at-expanding-share-button")/div[@class="at-expanding-share-button-toggle"]/a[@class="at-expanding-share-button-toggle-btn"]/div[@class="at-expanding-share-button-toggle-bg"]' not found)]]></system-out>
+      <system-err><![CDATA[2018-06-01 10:45:46 - [TEST_SUITE][FAILED] - mainsuite_QA_02_NES_N1799: Test Cases/regression_02_NES_N1799 FAILED because (of) Unable to verify object 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/object_spy_02_NES_N1799/div_at-expanding-share-button-' located by 'By.xpath: id("at-expanding-share-button")/div[@class="at-expanding-share-button-toggle"]/a[@class="at-expanding-share-button-toggle-btn"]/div[@class="at-expanding-share-button-toggle-bg"]' not found)]]></system-err>
+   </testsuite>
+</testsuites>

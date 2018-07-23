@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+mainsuite_QA_02_NES_N1799,Firefox 54.0,,2018-06-01 10:27:44,2018-06-01 10:28:43,58.071s,FAILED
+,,,,,,
+Test Cases/regression_02_NES_N1799,Firefox 54.0,,2018-06-01 10:27:46,2018-06-01 10:28:39,53.789s,FAILED
+openBrowser,Firefox 54.0,,2018-06-01 10:27:47,2018-06-01 10:28:12,25.803s,PASSED
+navigateToUrl,Firefox 54.0,,2018-06-01 10:28:12,2018-06-01 10:28:20,7.232s,PASSED
+maximizeWindow,Firefox 54.0,,2018-06-01 10:28:20,2018-06-01 10:28:20,0.181s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:28:20,2018-06-01 10:28:20,0.270s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:28:20,2018-06-01 10:28:20,0.083s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:28:20,2018-06-01 10:28:20,0.144s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:28:20,2018-06-01 10:28:21,0.206s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:28:21,2018-06-01 10:28:21,0.111s,PASSED
+verifyElementPresent,Firefox 54.0,,2018-06-01 10:28:21,2018-06-01 10:28:39,18.614s,FAILED
