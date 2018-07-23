@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="test" time="2" tests="0" failures="1" errors="0">
+   <testsuite name="test" tests="0" failures="1" errors="0" time="2" timestamp="2018-06-14 19:18:14" hostname="smaniiyer - pVDPERVM019.triaddigital.local" id="Test Suites/test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_ABB_K1616_PediaQ417\\Reports\\test\\20180614_191811"/>
+         <property name="logFiles" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_ABB_K1616_PediaQ417\\Reports\\test\\20180614_191811\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="smaniiyer - pVDPERVM019.triaddigital.local"/>
+         <property name="hostAddress" value="10.2.70.215"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+      </properties>
+      <testcase name="Test Cases/regg" classname="Test Cases/regg" status="FAILED">
+         <failure type="FAILED" message="Unable to open browser with url: '' (Root cause: org.openqa.selenium.SessionNotCreatedException: No device matching the desired capabilities
+Command duration or timeout: 355 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: driver.version: SwipeableAndroidDriver)"/>
+         <system-out><![CDATA[2018-06-14 19:18:14 - [TEST_CASE][FAILED] - Test Cases/regg: Test Cases/regg FAILED because (of) Unable to open browser with url: '' (Root cause: org.openqa.selenium.SessionNotCreatedException: No device matching the desired capabilities
+Command duration or timeout: 355 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: driver.version: SwipeableAndroidDriver)
+
+2018-06-14 19:18:15 - [TEST_STEP][FAILED] - openBrowser: Unable to open browser with url: '' (Root cause: org.openqa.selenium.SessionNotCreatedException: No device matching the desired capabilities
+Command duration or timeout: 355 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: driver.version: SwipeableAndroidDriver)
+
+2018-06-14 19:18:17 - [MESSAGE][FAILED] - Unable to open browser with url: '' (Root cause: org.openqa.selenium.SessionNotCreatedException: No device matching the desired capabilities
+Command duration or timeout: 355 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: driver.version: SwipeableAndroidDriver)]]></system-out>
+         <system-err><![CDATA[2018-06-14 19:18:14 - [TEST_CASE][FAILED] - Test Cases/regg: Test Cases/regg FAILED because (of) Unable to open browser with url: '' (Root cause: org.openqa.selenium.SessionNotCreatedException: No device matching the desired capabilities
+Command duration or timeout: 355 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: driver.version: SwipeableAndroidDriver)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-14 19:18:14 - [TEST_SUITE][FAILED] - test: Test Cases/regg FAILED because (of) Unable to open browser with url: '' (Root cause: org.openqa.selenium.SessionNotCreatedException: No device matching the desired capabilities
+Command duration or timeout: 355 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: driver.version: SwipeableAndroidDriver)]]></system-out>
+      <system-err><![CDATA[2018-06-14 19:18:14 - [TEST_SUITE][FAILED] - test: Test Cases/regg FAILED because (of) Unable to open browser with url: '' (Root cause: org.openqa.selenium.SessionNotCreatedException: No device matching the desired capabilities
+Command duration or timeout: 355 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: driver.version: SwipeableAndroidDriver)]]></system-err>
+   </testsuite>
+</testsuites>

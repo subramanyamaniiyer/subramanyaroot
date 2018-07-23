@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+test,,,2018-06-14 19:16:40,2018-06-14 19:16:43,2.841s,FAILED
+,,,,,,
+Test Cases/regg,,,2018-06-14 19:16:40,2018-06-14 19:16:43,2.286s,FAILED
+openBrowser,,,2018-06-14 19:16:41,2018-06-14 19:16:42,1.763s,FAILED

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="test" time="56" tests="0" failures="1" errors="0">
+   <testsuite name="test" tests="0" failures="1" errors="0" time="56" timestamp="2018-06-14 18:17:34" hostname="smaniiyer - pVDPERVM019.triaddigital.local" id="Test Suites/test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_ABB_K1616_PediaQ417\\Reports\\test\\20180614_181728"/>
+         <property name="logFiles" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_ABB_K1616_PediaQ417\\Reports\\test\\20180614_181728\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_ABB_K1616_PediaQ417\\Reports\\test\\20180614_181728\\1528980503990.png"/>
+         <property name="hostName" value="smaniiyer - pVDPERVM019.triaddigital.local"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Chrome 66.0.3359.158"/>
+         <property name="hostAddress" value="10.2.70.215"/>
+         <property name="sessionId" value="a6a17d66-3413-43b7-9a42-c06bf2469af8"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/regg" classname="Test Cases/regg" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/Page_Pedialyte/img_trm-desktop' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=66.0.3359.158)
+  (Driver info: chromedriver=2.37.544337 (8c0344a12e552148c185f7d5117db1f28d6c9e85),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.appium.driver.SwipeableAndroidDriver
+Capabilities {acceptSslCerts: true, automationName: Appium, browserName: chrome, captureSreenShots: true, chromedriverExecutableDir: /Applications/Kobiton.app/C..., databaseEnabled: false, desired: {acceptSslCerts: true, automationName: Appium, browserName: chrome, captureSreenShots: true, chromedriverExecutableDir: /Applications/Kobiton.app/C..., deviceName: Galaxy On Nxt, deviceOrientation: portrait, fullReset: false, noReset: true, orientation: PORTRAIT, platform: ANDROID, platformName: Android, platformVersion: 6.0.1, sessionDescription: , sessionName: Automation test session, udid: 33007e335b1744a3, version: }, deviceManufacturer: samsung, deviceModel: SM-G610F, deviceName: 33007e335b1744a3, deviceOrientation: portrait, deviceScreenSize: 1080x1920, deviceUDID: 33007e335b1744a3, fullReset: false, javascriptEnabled: true, kobitonSessionId: 323287, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, orientation: PORTRAIT, platform: ANDROID, platformName: ANDROID, platformVersion: 6.0.1, sessionDescription: , sessionName: Automation test session, takesScreenshot: true, udid: 33007e335b1744a3, version: , versions: {appiumVersion: 1.8.0, nodeVersion: v7.4.0}, warnings: {}, webStorageEnabled: false}
+Session ID: a6a17d66-3413-43b7-9a42-c06bf2469af8)"/>
+         <system-out><![CDATA[2018-06-14 18:17:35 - [TEST_CASE][FAILED] - Test Cases/regg: Test Cases/regg FAILED because (of) Unable to click on object 'Object Repository/Page_Pedialyte/img_trm-desktop' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=66.0.3359.158)
+  (Driver info: chromedriver=2.37.544337 (8c0344a12e552148c185f7d5117db1f28d6c9e85),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.appium.driver.SwipeableAndroidDriver
+Capabilities {acceptSslCerts: true, automationName: Appium, browserName: chrome, captureSreenShots: true, chromedriverExecutableDir: /Applications/Kobiton.app/C..., databaseEnabled: false, desired: {acceptSslCerts: true, automationName: Appium, browserName: chrome, captureSreenShots: true, chromedriverExecutableDir: /Applications/Kobiton.app/C..., deviceName: Galaxy On Nxt, deviceOrientation: portrait, fullReset: false, noReset: true, orientation: PORTRAIT, platform: ANDROID, platformName: Android, platformVersion: 6.0.1, sessionDescription: , sessionName: Automation test session, udid: 33007e335b1744a3, version: }, deviceManufacturer: samsung, deviceModel: SM-G610F, deviceName: 33007e335b1744a3, deviceOrientation: portrait, deviceScreenSize: 1080x1920, deviceUDID: 33007e335b1744a3, fullReset: false, javascriptEnabled: true, kobitonSessionId: 323287, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, orientation: PORTRAIT, platform: ANDROID, platformName: ANDROID, platformVersion: 6.0.1, sessionDescription: , sessionName: Automation test session, takesScreenshot: true, udid: 33007e335b1744a3, version: , versions: {appiumVersion: 1.8.0, nodeVersion: v7.4.0}, warnings: {}, webStorageEnabled: false}
+Session ID: a6a17d66-3413-43b7-9a42-c06bf2469af8)
+
+2018-06-14 18:17:36 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-06-14 18:18:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-06-14 18:18:16 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://staging.walmart.triadretail.net/pedialyte' successfully
+
+2018-06-14 18:18:22 - [MESSAGE][PASSED] - Navigate to 'https://staging.walmart.triadretail.net/pedialyte' successfully
+
+2018-06-14 18:18:22 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/Page_Pedialyte/img_trm-desktop' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=66.0.3359.158)
+  (Driver info: chromedriver=2.37.544337 (8c0344a12e552148c185f7d5117db1f28d6c9e85),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.appium.driver.SwipeableAndroidDriver
+Capabilities {acceptSslCerts: true, automationName: Appium, browserName: chrome, captureSreenShots: true, chromedriverExecutableDir: /Applications/Kobiton.app/C..., databaseEnabled: false, desired: {acceptSslCerts: true, automationName: Appium, browserName: chrome, captureSreenShots: true, chromedriverExecutableDir: /Applications/Kobiton.app/C..., deviceName: Galaxy On Nxt, deviceOrientation: portrait, fullReset: false, noReset: true, orientation: PORTRAIT, platform: ANDROID, platformName: Android, platformVersion: 6.0.1, sessionDescription: , sessionName: Automation test session, udid: 33007e335b1744a3, version: }, deviceManufacturer: samsung, deviceModel: SM-G610F, deviceName: 33007e335b1744a3, deviceOrientation: portrait, deviceScreenSize: 1080x1920, deviceUDID: 33007e335b1744a3, fullReset: false, javascriptEnabled: true, kobitonSessionId: 323287, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, orientation: PORTRAIT, platform: ANDROID, platformName: ANDROID, platformVersion: 6.0.1, sessionDescription: , sessionName: Automation test session, takesScreenshot: true, udid: 33007e335b1744a3, version: , versions: {appiumVersion: 1.8.0, nodeVersion: v7.4.0}, warnings: {}, webStorageEnabled: false}
+Session ID: a6a17d66-3413-43b7-9a42-c06bf2469af8)
+
+2018-06-14 18:18:26 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_Pedialyte/img_trm-desktop' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=66.0.3359.158)
+  (Driver info: chromedriver=2.37.544337 (8c0344a12e552148c185f7d5117db1f28d6c9e85),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.appium.driver.SwipeableAndroidDriver
+Capabilities {acceptSslCerts: true, automationName: Appium, browserName: chrome, captureSreenShots: true, chromedriverExecutableDir: /Applications/Kobiton.app/C..., databaseEnabled: false, desired: {acceptSslCerts: true, automationName: Appium, browserName: chrome, captureSreenShots: true, chromedriverExecutableDir: /Applications/Kobiton.app/C..., deviceName: Galaxy On Nxt, deviceOrientation: portrait, fullReset: false, noReset: true, orientation: PORTRAIT, platform: ANDROID, platformName: Android, platformVersion: 6.0.1, sessionDescription: , sessionName: Automation test session, udid: 33007e335b1744a3, version: }, deviceManufacturer: samsung, deviceModel: SM-G610F, deviceName: 33007e335b1744a3, deviceOrientation: portrait, deviceScreenSize: 1080x1920, deviceUDID: 33007e335b1744a3, fullReset: false, javascriptEnabled: true, kobitonSessionId: 323287, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, orientation: PORTRAIT, platform: ANDROID, platformName: ANDROID, platformVersion: 6.0.1, sessionDescription: , sessionName: Automation test session, takesScreenshot: true, udid: 33007e335b1744a3, version: , versions: {appiumVersion: 1.8.0, nodeVersion: v7.4.0}, warnings: {}, webStorageEnabled: false}
+Session ID: a6a17d66-3413-43b7-9a42-c06bf2469af8)
+[[ATTACHMENT|C:\\Users\\smaniiyer\\Katalon Studio\\01_ABB_K1616_PediaQ417\\Reports\\test\\20180614_181728\\1528980503990.png]]]]></system-out>
+         <system-err><![CDATA[2018-06-14 18:17:35 - [TEST_CASE][FAILED] - Test Cases/regg: Test Cases/regg FAILED because (of) Unable to click on object 'Object Repository/Page_Pedialyte/img_trm-desktop' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=66.0.3359.158)
+  (Driver info: chromedriver=2.37.544337 (8c0344a12e552148c185f7d5117db1f28d6c9e85),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.appium.driver.SwipeableAndroidDriver
+Capabilities {acceptSslCerts: true, automationName: Appium, browserName: chrome, captureSreenShots: true, chromedriverExecutableDir: /Applications/Kobiton.app/C..., databaseEnabled: false, desired: {acceptSslCerts: true, automationName: Appium, browserName: chrome, captureSreenShots: true, chromedriverExecutableDir: /Applications/Kobiton.app/C..., deviceName: Galaxy On Nxt, deviceOrientation: portrait, fullReset: false, noReset: true, orientation: PORTRAIT, platform: ANDROID, platformName: Android, platformVersion: 6.0.1, sessionDescription: , sessionName: Automation test session, udid: 33007e335b1744a3, version: }, deviceManufacturer: samsung, deviceModel: SM-G610F, deviceName: 33007e335b1744a3, deviceOrientation: portrait, deviceScreenSize: 1080x1920, deviceUDID: 33007e335b1744a3, fullReset: false, javascriptEnabled: true, kobitonSessionId: 323287, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, orientation: PORTRAIT, platform: ANDROID, platformName: ANDROID, platformVersion: 6.0.1, sessionDescription: , sessionName: Automation test session, takesScreenshot: true, udid: 33007e335b1744a3, version: , versions: {appiumVersion: 1.8.0, nodeVersion: v7.4.0}, warnings: {}, webStorageEnabled: false}
+Session ID: a6a17d66-3413-43b7-9a42-c06bf2469af8)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-14 18:17:34 - [TEST_SUITE][FAILED] - test: Test Cases/regg FAILED because (of) Unable to click on object 'Object Repository/Page_Pedialyte/img_trm-desktop' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=66.0.3359.158)
+  (Driver info: chromedriver=2.37.544337 (8c0344a12e552148c185f7d5117db1f28d6c9e85),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.appium.driver.SwipeableAndroidDriver
+Capabilities {acceptSslCerts: true, automationName: Appium, browserName: chrome, captureSreenShots: true, chromedriverExecutableDir: /Applications/Kobiton.app/C..., databaseEnabled: false, desired: {acceptSslCerts: true, automationName: Appium, browserName: chrome, captureSreenShots: true, chromedriverExecutableDir: /Applications/Kobiton.app/C..., deviceName: Galaxy On Nxt, deviceOrientation: portrait, fullReset: false, noReset: true, orientation: PORTRAIT, platform: ANDROID, platformName: Android, platformVersion: 6.0.1, sessionDescription: , sessionName: Automation test session, udid: 33007e335b1744a3, version: }, deviceManufacturer: samsung, deviceModel: SM-G610F, deviceName: 33007e335b1744a3, deviceOrientation: portrait, deviceScreenSize: 1080x1920, deviceUDID: 33007e335b1744a3, fullReset: false, javascriptEnabled: true, kobitonSessionId: 323287, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, orientation: PORTRAIT, platform: ANDROID, platformName: ANDROID, platformVersion: 6.0.1, sessionDescription: , sessionName: Automation test session, takesScreenshot: true, udid: 33007e335b1744a3, version: , versions: {appiumVersion: 1.8.0, nodeVersion: v7.4.0}, warnings: {}, webStorageEnabled: false}
+Session ID: a6a17d66-3413-43b7-9a42-c06bf2469af8)]]></system-out>
+      <system-err><![CDATA[2018-06-14 18:17:34 - [TEST_SUITE][FAILED] - test: Test Cases/regg FAILED because (of) Unable to click on object 'Object Repository/Page_Pedialyte/img_trm-desktop' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=66.0.3359.158)
+  (Driver info: chromedriver=2.37.544337 (8c0344a12e552148c185f7d5117db1f28d6c9e85),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.appium.driver.SwipeableAndroidDriver
+Capabilities {acceptSslCerts: true, automationName: Appium, browserName: chrome, captureSreenShots: true, chromedriverExecutableDir: /Applications/Kobiton.app/C..., databaseEnabled: false, desired: {acceptSslCerts: true, automationName: Appium, browserName: chrome, captureSreenShots: true, chromedriverExecutableDir: /Applications/Kobiton.app/C..., deviceName: Galaxy On Nxt, deviceOrientation: portrait, fullReset: false, noReset: true, orientation: PORTRAIT, platform: ANDROID, platformName: Android, platformVersion: 6.0.1, sessionDescription: , sessionName: Automation test session, udid: 33007e335b1744a3, version: }, deviceManufacturer: samsung, deviceModel: SM-G610F, deviceName: 33007e335b1744a3, deviceOrientation: portrait, deviceScreenSize: 1080x1920, deviceUDID: 33007e335b1744a3, fullReset: false, javascriptEnabled: true, kobitonSessionId: 323287, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, orientation: PORTRAIT, platform: ANDROID, platformName: ANDROID, platformVersion: 6.0.1, sessionDescription: , sessionName: Automation test session, takesScreenshot: true, udid: 33007e335b1744a3, version: , versions: {appiumVersion: 1.8.0, nodeVersion: v7.4.0}, warnings: {}, webStorageEnabled: false}
+Session ID: a6a17d66-3413-43b7-9a42-c06bf2469af8)]]></system-err>
+   </testsuite>
+</testsuites>

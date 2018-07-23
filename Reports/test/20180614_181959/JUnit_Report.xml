@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="test" time="83" tests="1" failures="0" errors="0">
+   <testsuite name="test" tests="1" failures="0" errors="0" time="83" timestamp="2018-06-14 18:20:02" hostname="smaniiyer - pVDPERVM019.triaddigital.local" id="Test Suites/test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_ABB_K1616_PediaQ417\\Reports\\test\\20180614_181959"/>
+         <property name="logFiles" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_ABB_K1616_PediaQ417\\Reports\\test\\20180614_181959\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="smaniiyer - pVDPERVM019.triaddigital.local"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Safari 9"/>
+         <property name="hostAddress" value="10.2.70.215"/>
+         <property name="sessionId" value="c91eb5b9-98b8-4f5f-8e91-3bcdc0951dc8"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/regg" classname="Test Cases/regg" status="PASSED">
+         <system-out><![CDATA[2018-06-14 18:20:02 - [TEST_CASE][PASSED] - Test Cases/regg: Test Cases/regg
+
+2018-06-14 18:20:03 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-06-14 18:20:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-06-14 18:20:34 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://staging.walmart.triadretail.net/pedialyte' successfully
+
+2018-06-14 18:20:36 - [MESSAGE][PASSED] - Navigate to 'https://staging.walmart.triadretail.net/pedialyte' successfully
+
+2018-06-14 18:20:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Pedialyte/img_trm-desktop' is clicked on
+
+2018-06-14 18:21:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Pedialyte/img_trm-desktop' is clicked on
+
+2018-06-14 18:21:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Pedialyte/p_Important Walmart Disclaimer' is clicked on
+
+2018-06-14 18:21:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Pedialyte/p_Important Walmart Disclaimer' is clicked on
+
+2018-06-14 18:21:24 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-06-14 18:21:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-14 18:20:02 - [TEST_SUITE][PASSED] - test: Test Cases/regg]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

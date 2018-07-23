@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+test,Safari 9,,2018-06-14 18:20:02,2018-06-14 18:21:25,1m - 23.075s,PASSED
+,,,,,,
+Test Cases/regg,Safari 9,,2018-06-14 18:20:02,2018-06-14 18:21:25,1m - 22.572s,PASSED
+openBrowser,Safari 9,,2018-06-14 18:20:03,2018-06-14 18:20:34,30.943s,PASSED
+navigateToUrl,Safari 9,,2018-06-14 18:20:34,2018-06-14 18:20:36,2.121s,PASSED
+click,Safari 9,,2018-06-14 18:20:36,2018-06-14 18:21:01,25.730s,PASSED
+click,Safari 9,,2018-06-14 18:21:01,2018-06-14 18:21:24,22.167s,PASSED
+closeBrowser,Safari 9,,2018-06-14 18:21:24,2018-06-14 18:21:25,1.130s,PASSED
