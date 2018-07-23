@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_jw-icon jw-icon-inline jw-</name>
+   <tag></tag>
+   <elementGuidId>0b6a89ee-423a-4535-bd76-8732ca250638</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jw-icon jw-icon-inline jw-button-color jw-reset jw-icon-playback</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Play</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jwvid-1b0bb073-f4d6-4ab7-8017-63d508bc844b&quot;)/div[@class=&quot;jw-controls jw-reset&quot;]/div[@class=&quot;jw-controlbar jw-background-color jw-reset&quot;]/div[@class=&quot;jw-group jw-controlbar-left-group jw-reset&quot;]/div[@class=&quot;jw-icon jw-icon-inline jw-button-color jw-reset jw-icon-playback&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
