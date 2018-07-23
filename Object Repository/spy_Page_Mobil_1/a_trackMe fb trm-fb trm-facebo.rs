@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_trackMe fb trm-fb trm-facebo</name>
+   <tag></tag>
+   <elementGuidId>ee20f338-4f6f-4074-94c3-5986856efb0c</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.facebook.com/dialog/feed?app_id=136479396827527&amp;link=https%3A%2F%2Fuat-walmart.triadretail.net%2Fmobil1&amp;redirect_uri=https%3A%2F%2Fuat-walmart.triadretail.net%2Fmobil1&amp;display=page</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trackMe fb trm-fb trm-facebook-icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>omnitag</name>
+      <type>Main</type>
+      <value>Facebook Share</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>shareurl</name>
+      <type>Main</type>
+      <value>https://uat-walmart.triadretail.net/mobil1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Clicking here will redirect you to another site.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>s_objectID=&quot;https://www.facebook.com/dialog/feed?app_id=136479396827527&amp;link=https%3A%2F%2Fuat-walmart.triadr_1&quot;;return this.s_oc?this.s_oc(e):true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;mobil1&quot;]/div[@class=&quot;TRMcontainer landing&quot;]/header[@class=&quot;TRMheader row&quot;]/div[@class=&quot;trmcol-xs-6 trmcol-sm-3 trmcol-md-4 text-right&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;row social-share trm-social-icons&quot;]/a[@class=&quot;trackMe fb trm-fb trm-facebook-icon&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
