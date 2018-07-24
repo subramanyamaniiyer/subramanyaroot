@@ -1,0 +1,3787 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-06-20T15:45:23</date>
+  <millis>1529489723203</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/all_env</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">all_env</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/all_env</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:23</date>
+  <millis>1529489723307</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostName&amp;apos; with value &amp;apos;smaniiyer - pVDPERVM019.triaddigital.local&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">smaniiyer - pVDPERVM019.triaddigital.local</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:23</date>
+  <millis>1529489723308</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;os&amp;apos; with value &amp;apos;Windows 8.1 64bit&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 8.1 64bit</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:23</date>
+  <millis>1529489723309</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostAddress&amp;apos; with value &amp;apos;10.2.70.215&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">10.2.70.215</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:23</date>
+  <millis>1529489723310</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;katalonVersion&amp;apos; with value &amp;apos;5.4.2.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">5.4.2.1</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:23</date>
+  <millis>1529489723965</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/New Test Case</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/New Test Case</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/New Test Case</property>
+  <property name="source">C:\\Users\\smaniiyer\\Katalon Studio\\01_MAR_Q1718\\Test Cases\\New Test Case.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:24</date>
+  <millis>1529489724007</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:24</date>
+  <millis>1529489724595</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">25</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:25</date>
+  <millis>1529489725438</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Opening browser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:25</date>
+  <millis>1529489725451</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Chrome&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:25</date>
+  <millis>1529489725520</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 seconds</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:32</date>
+  <millis>1529489732977</millis>
+  <sequence>12</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;sessionId&amp;apos; with value &amp;apos;b8f7a9e466b99c9a8364a167874cda8f&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">b8f7a9e466b99c9a8364a167874cda8f</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:33</date>
+  <millis>1529489733057</millis>
+  <sequence>13</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;browser&amp;apos; with value &amp;apos;Chrome 66.0.3359.181&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Chrome 66.0.3359.181</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:33</date>
+  <millis>1529489733059</millis>
+  <sequence>14</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;platform&amp;apos; with value &amp;apos;Windows 8.1&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 8.1</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:33</date>
+  <millis>1529489733065</millis>
+  <sequence>15</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;seleniumVersion&amp;apos; with value &amp;apos;3.7.1&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:33</date>
+  <millis>1529489733068</millis>
+  <sequence>16</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;proxyInformation&amp;apos; with value &amp;apos;ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:33</date>
+  <millis>1529489733069</millis>
+  <sequence>17</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:33</date>
+  <millis>1529489733070</millis>
+  <sequence>18</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:33</date>
+  <millis>1529489733070</millis>
+  <sequence>19</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - value1 = false</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">27</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:33</date>
+  <millis>1529489733072</millis>
+  <sequence>20</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - value1 = false</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:33</date>
+  <millis>1529489733072</millis>
+  <sequence>21</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - value2 = true</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">27</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:33</date>
+  <millis>1529489733073</millis>
+  <sequence>22</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - value2 = true</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:33</date>
+  <millis>1529489733074</millis>
+  <sequence>23</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - xxxx = null</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">28</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:33</date>
+  <millis>1529489733075</millis>
+  <sequence>24</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - xxxx = null</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:33</date>
+  <millis>1529489733075</millis>
+  <sequence>25</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">31</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:33</date>
+  <millis>1529489733121</millis>
+  <sequence>26</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking url</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:33</date>
+  <millis>1529489733123</millis>
+  <sequence>27</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigating to &amp;apos;https://wm6.walmart.com/MadeforSummer&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735073</millis>
+  <sequence>28</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://wm6.walmart.com/MadeforSummer&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735074</millis>
+  <sequence>29</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735075</millis>
+  <sequence>30</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">33</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735082</millis>
+  <sequence>31</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/Made_for_Summer_Mars_Candy/img&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735156</millis>
+  <sequence>32</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735157</millis>
+  <sequence>33</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735181</millis>
+  <sequence>34</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/Made_for_Summer_Mars_Candy/img&amp;apos; located by &amp;apos;By.xpath: //img[@src = &amp;apos;/MediaOMP/2018/MAR/01_MAR_Q1718_MarsSummerRW/img/pov.jpg&amp;apos; and @alt = &amp;apos;pov&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735642</millis>
+  <sequence>35</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/Made_for_Summer_Mars_Candy/img&amp;apos; located by &amp;apos;By.xpath: //img[@src = &amp;apos;/MediaOMP/2018/MAR/01_MAR_Q1718_MarsSummerRW/img/pov.jpg&amp;apos; and @alt = &amp;apos;pov&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735643</millis>
+  <sequence>36</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/Made_for_Summer_Mars_Candy/img&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735834</millis>
+  <sequence>37</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Made_for_Summer_Mars_Candy/img&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735836</millis>
+  <sequence>38</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735836</millis>
+  <sequence>39</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - If (com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (1))))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">37</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735837</millis>
+  <sequence>40</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (1)&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735869</millis>
+  <sequence>41</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735870</millis>
+  <sequence>42</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735874</millis>
+  <sequence>43</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (1)&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;https://www.walmart.com/ip/51430456&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735901</millis>
+  <sequence>44</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 3 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (1)&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;https://www.walmart.com/ip/51430456&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735927</millis>
+  <sequence>45</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (1)&amp;apos; is visible</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735928</millis>
+  <sequence>46</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - value1 = true</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">38</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735930</millis>
+  <sequence>47</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - value1 = true</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735931</millis>
+  <sequence>48</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - If (value1 == true)</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">39</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735932</millis>
+  <sequence>49</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>3</nestedLevel>
+  <property name="startLine">40</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735933</millis>
+  <sequence>50</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/img&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735957</millis>
+  <sequence>51</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735957</millis>
+  <sequence>52</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735958</millis>
+  <sequence>53</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735959</millis>
+  <sequence>54</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/img&amp;apos; located by &amp;apos;By.xpath: //img[@src = &amp;apos;/MediaOMP/2018/MAR/01_MAR_Q1718_MarsSummerRW/img/pov.jpg&amp;apos; and @alt = &amp;apos;pov&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735975</millis>
+  <sequence>55</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/img&amp;apos; located by &amp;apos;By.xpath: //img[@src = &amp;apos;/MediaOMP/2018/MAR/01_MAR_Q1718_MarsSummerRW/img/pov.jpg&amp;apos; and @alt = &amp;apos;pov&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735976</millis>
+  <sequence>56</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/img&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735977</millis>
+  <sequence>57</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>3</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735977</millis>
+  <sequence>58</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - If (value1 == true)</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735978</millis>
+  <sequence>59</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - If (com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (1))))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735978</millis>
+  <sequence>60</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : Statement - If (value2 == com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin), CONTINUE_ON_FAILURE))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">45</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735979</millis>
+  <sequence>61</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735993</millis>
+  <sequence>62</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735994</millis>
+  <sequence>63</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:35</date>
+  <millis>1529489735995</millis>
+  <sequence>64</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;https://www.walmart.com/ip/821356904&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736027</millis>
+  <sequence>65</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 3 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;https://www.walmart.com/ip/821356904&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736054</millis>
+  <sequence>66</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin&amp;apos; is visible</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736055</millis>
+  <sequence>67</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">47</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736056</millis>
+  <sequence>68</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736065</millis>
+  <sequence>69</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736065</millis>
+  <sequence>70</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736066</millis>
+  <sequence>71</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736067</millis>
+  <sequence>72</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;https://www.walmart.com/ip/821356904&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736084</millis>
+  <sequence>73</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 3 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;https://www.walmart.com/ip/821356904&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736085</millis>
+  <sequence>74</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736085</millis>
+  <sequence>75</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736086</millis>
+  <sequence>76</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : Statement - If (value2 == com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin), CONTINUE_ON_FAILURE))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736086</millis>
+  <sequence>77</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">52</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736087</millis>
+  <sequence>78</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/img&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736091</millis>
+  <sequence>79</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736092</millis>
+  <sequence>80</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736092</millis>
+  <sequence>81</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736093</millis>
+  <sequence>82</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/img&amp;apos; located by &amp;apos;By.xpath: //img[@src = &amp;apos;/MediaOMP/2018/MAR/01_MAR_Q1718_MarsSummerRW/img/pov.jpg&amp;apos; and @alt = &amp;apos;pov&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736108</millis>
+  <sequence>83</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/img&amp;apos; located by &amp;apos;By.xpath: //img[@src = &amp;apos;/MediaOMP/2018/MAR/01_MAR_Q1718_MarsSummerRW/img/pov.jpg&amp;apos; and @alt = &amp;apos;pov&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736109</millis>
+  <sequence>84</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/img&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736110</millis>
+  <sequence>85</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736110</millis>
+  <sequence>86</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">53</property>
+  <property name="stepIndex">10</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736111</millis>
+  <sequence>87</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/img (3)&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736122</millis>
+  <sequence>88</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736122</millis>
+  <sequence>89</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736123</millis>
+  <sequence>90</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736124</millis>
+  <sequence>91</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/img (3)&amp;apos; located by &amp;apos;By.xpath: //img[@src = &amp;apos;/MediaOMP/2018/MAR/01_MAR_Q1718_MarsSummerRW/img/recipe_btm.jpg&amp;apos; and @alt = &amp;apos;recipe&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736149</millis>
+  <sequence>92</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/img (3)&amp;apos; located by &amp;apos;By.xpath: //img[@src = &amp;apos;/MediaOMP/2018/MAR/01_MAR_Q1718_MarsSummerRW/img/recipe_btm.jpg&amp;apos; and @alt = &amp;apos;recipe&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736150</millis>
+  <sequence>93</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/img (3)&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736151</millis>
+  <sequence>94</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736151</millis>
+  <sequence>95</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">54</property>
+  <property name="stepIndex">11</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736152</millis>
+  <sequence>96</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/img (2)&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736159</millis>
+  <sequence>97</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736160</millis>
+  <sequence>98</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736160</millis>
+  <sequence>99</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736161</millis>
+  <sequence>100</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/img (2)&amp;apos; located by &amp;apos;By.xpath: //img[@src = &amp;apos;/MediaOMP/2018/MAR/01_MAR_Q1718_MarsSummerRW/img/recipe_left.jpg&amp;apos; and @alt = &amp;apos;recipe&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736185</millis>
+  <sequence>101</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/img (2)&amp;apos; located by &amp;apos;By.xpath: //img[@src = &amp;apos;/MediaOMP/2018/MAR/01_MAR_Q1718_MarsSummerRW/img/recipe_left.jpg&amp;apos; and @alt = &amp;apos;recipe&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736186</millis>
+  <sequence>102</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/img (2)&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736187</millis>
+  <sequence>103</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736188</millis>
+  <sequence>104</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">55</property>
+  <property name="stepIndex">12</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736188</millis>
+  <sequence>105</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/img (1)&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736195</millis>
+  <sequence>106</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736196</millis>
+  <sequence>107</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736196</millis>
+  <sequence>108</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736197</millis>
+  <sequence>109</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/img (1)&amp;apos; located by &amp;apos;By.xpath: //img[@src = &amp;apos;/MediaOMP/2018/MAR/01_MAR_Q1718_MarsSummerRW/img/recipe_top.jpg&amp;apos; and @alt = &amp;apos;recipe&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736226</millis>
+  <sequence>110</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/img (1)&amp;apos; located by &amp;apos;By.xpath: //img[@src = &amp;apos;/MediaOMP/2018/MAR/01_MAR_Q1718_MarsSummerRW/img/recipe_top.jpg&amp;apos; and @alt = &amp;apos;recipe&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736226</millis>
+  <sequence>111</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/img (1)&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736227</millis>
+  <sequence>112</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736227</millis>
+  <sequence>113</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">56</property>
+  <property name="stepIndex">13</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736228</millis>
+  <sequence>114</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/h4_MMs Treat Pops&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736237</millis>
+  <sequence>115</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736237</millis>
+  <sequence>116</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736238</millis>
+  <sequence>117</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736239</millis>
+  <sequence>118</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/h4_MMs Treat Pops&amp;apos; located by &amp;apos;By.xpath: //h4[(text() = concat(&amp;apos;M&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;s\u00AE Treat Pops&amp;apos;) or . = concat(&amp;apos;M&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;s\u00AE Treat Pops&amp;apos;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736265</millis>
+  <sequence>119</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/h4_MMs Treat Pops&amp;apos; located by &amp;apos;By.xpath: //h4[(text() = concat(&amp;apos;M&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;s\u00AE Treat Pops&amp;apos;) or . = concat(&amp;apos;M&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;s\u00AE Treat Pops&amp;apos;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736266</millis>
+  <sequence>120</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/h4_MMs Treat Pops&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736267</millis>
+  <sequence>121</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736268</millis>
+  <sequence>122</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">57</property>
+  <property name="stepIndex">14</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736268</millis>
+  <sequence>123</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/h1_Make Summer Mmmemorable&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736276</millis>
+  <sequence>124</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736277</millis>
+  <sequence>125</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736277</millis>
+  <sequence>126</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736278</millis>
+  <sequence>127</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/h1_Make Summer Mmmemorable&amp;apos; located by &amp;apos;By.xpath: //h1[(text() = &amp;apos;Make Summer Mmmemorable&amp;apos; or . = &amp;apos;Make Summer Mmmemorable&amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736309</millis>
+  <sequence>128</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/h1_Make Summer Mmmemorable&amp;apos; located by &amp;apos;By.xpath: //h1[(text() = &amp;apos;Make Summer Mmmemorable&amp;apos; or . = &amp;apos;Make Summer Mmmemorable&amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736309</millis>
+  <sequence>129</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/h1_Make Summer Mmmemorable&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736310</millis>
+  <sequence>130</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736310</millis>
+  <sequence>131</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">58</property>
+  <property name="stepIndex">15</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736311</millis>
+  <sequence>132</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/h1_How Sweet It Is&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736318</millis>
+  <sequence>133</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736318</millis>
+  <sequence>134</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736319</millis>
+  <sequence>135</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736319</millis>
+  <sequence>136</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/h1_How Sweet It Is&amp;apos; located by &amp;apos;By.xpath: //h1[(text() = &amp;apos;How Sweet It Is&amp;apos; or . = &amp;apos;How Sweet It Is&amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736347</millis>
+  <sequence>137</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/h1_How Sweet It Is&amp;apos; located by &amp;apos;By.xpath: //h1[(text() = &amp;apos;How Sweet It Is&amp;apos; or . = &amp;apos;How Sweet It Is&amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736347</millis>
+  <sequence>138</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/h1_How Sweet It Is&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736348</millis>
+  <sequence>139</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736348</millis>
+  <sequence>140</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">59</property>
+  <property name="stepIndex">16</property>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736349</millis>
+  <sequence>141</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/div_Skittles All American Cand&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736357</millis>
+  <sequence>142</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736358</millis>
+  <sequence>143</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736358</millis>
+  <sequence>144</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:45:36</date>
+  <millis>1529489736359</millis>
+  <sequence>145</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/div_Skittles All American Cand&amp;apos; located by &amp;apos;By.xpath: //div[(text() = concat(&amp;apos;\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles, All American Candy Bowl...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$19.95\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Red, White &amp;amp; Blue Milk Chocolate...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $10.75\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Red, White &amp;amp; Blue Peanut Chocolate...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t3.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t4\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles, America Mix Skittles Candy,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t23\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$6.58\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSNICKERS, Minis Size Chocolate Bars...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$2.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Peanut Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t230\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Caramel Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t3\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Milk Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t143\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tStarburst, Original Fruit Chews Candy,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t38\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $12.38\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles and Starburst, Fun Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t12\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.38\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tStarburst Skittles Lifesavers, Variety...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t30\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles &amp;amp; Starburst Candy Variety...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t5.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t6\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$11.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tLife Savers, 5 Flavors Hard Candy, 41 Oz\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t71\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $6.98\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tLife Savers Wint O Green Mints Candy...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t5.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t109\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$6.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tEclipse Spearmint Sugarfree Chewing...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t30\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tOrbit White Bubblemint Sugarfree Gum,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t40\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n&amp;apos;) or . = concat(&amp;apos;\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles, All American Candy Bowl...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$19.95\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Red, White &amp;amp; Blue Milk Chocolate...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $10.75\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Red, White &amp;amp; Blue Peanut Chocolate...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t3.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t4\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles, America Mix Skittles Candy,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t23\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$6.58\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSNICKERS, Minis Size Chocolate Bars...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$2.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Peanut Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t230\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Caramel Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t3\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Milk Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t143\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tStarburst, Original Fruit Chews Candy,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t38\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $12.38\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles and Starburst, Fun Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t12\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.38\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tStarburst Skittles Lifesavers, Variety...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t30\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles &amp;amp; Starburst Candy Variety...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t5.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t6\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$11.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tLife Savers, 5 Flavors Hard Candy, 41 Oz\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t71\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $6.98\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tLife Savers Wint O Green Mints Candy...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t5.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t109\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$6.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tEclipse Spearmint Sugarfree Chewing...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t30\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tOrbit White Bubblemint Sugarfree Gum,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t40\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n&amp;apos;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769088</millis>
+  <sequence>146</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/div_Skittles All American Cand&amp;apos; located by &amp;apos;By.xpath: //div[(text() = concat(&amp;apos;\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles, All American Candy Bowl...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$19.95\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Red, White &amp;amp; Blue Milk Chocolate...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $10.75\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Red, White &amp;amp; Blue Peanut Chocolate...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t3.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t4\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles, America Mix Skittles Candy,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t23\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$6.58\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSNICKERS, Minis Size Chocolate Bars...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$2.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Peanut Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t230\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Caramel Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t3\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Milk Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t143\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tStarburst, Original Fruit Chews Candy,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t38\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $12.38\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles and Starburst, Fun Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t12\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.38\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tStarburst Skittles Lifesavers, Variety...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t30\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles &amp;amp; Starburst Candy Variety...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t5.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t6\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$11.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tLife Savers, 5 Flavors Hard Candy, 41 Oz\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t71\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $6.98\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tLife Savers Wint O Green Mints Candy...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t5.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t109\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$6.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tEclipse Spearmint Sugarfree Chewing...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t30\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tOrbit White Bubblemint Sugarfree Gum,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t40\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n&amp;apos;) or . = concat(&amp;apos;\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles, All American Candy Bowl...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$19.95\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Red, White &amp;amp; Blue Milk Chocolate...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $10.75\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Red, White &amp;amp; Blue Peanut Chocolate...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t3.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t4\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles, America Mix Skittles Candy,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t23\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$6.58\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSNICKERS, Minis Size Chocolate Bars...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$2.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Peanut Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t230\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Caramel Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t3\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Milk Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t143\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tStarburst, Original Fruit Chews Candy,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t38\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $12.38\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles and Starburst, Fun Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t12\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.38\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tStarburst Skittles Lifesavers, Variety...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t30\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles &amp;amp; Starburst Candy Variety...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t5.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t6\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$11.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tLife Savers, 5 Flavors Hard Candy, 41 Oz\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t71\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $6.98\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tLife Savers Wint O Green Mints Candy...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t5.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t109\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$6.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tEclipse Spearmint Sugarfree Chewing...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t30\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tOrbit White Bubblemint Sugarfree Gum,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t40\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n&amp;apos;))]&amp;apos; not found</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">1529489768311.png</property>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769096</millis>
+  <sequence>147</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769100</millis>
+  <sequence>148</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">60</property>
+  <property name="stepIndex">17</property>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769101</millis>
+  <sequence>149</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/div_RecipeMMs Treat PopsRecipe&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769116</millis>
+  <sequence>150</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769117</millis>
+  <sequence>151</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769117</millis>
+  <sequence>152</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769118</millis>
+  <sequence>153</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/div_RecipeMMs Treat PopsRecipe&amp;apos; located by &amp;apos;By.xpath: //div[(text() = concat(&amp;apos;\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tRecipe\n\t\t\t\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;s\u00AE Treat Pops\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tRecipe\n\t\t\t\t\t\tSnickers\u00AE Cookie Dough Truffles\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t&amp;apos;) or . = concat(&amp;apos;\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tRecipe\n\t\t\t\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;s\u00AE Treat Pops\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tRecipe\n\t\t\t\t\t\tSnickers\u00AE Cookie Dough Truffles\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t&amp;apos;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769161</millis>
+  <sequence>154</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/div_RecipeMMs Treat PopsRecipe&amp;apos; located by &amp;apos;By.xpath: //div[(text() = concat(&amp;apos;\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tRecipe\n\t\t\t\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;s\u00AE Treat Pops\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tRecipe\n\t\t\t\t\t\tSnickers\u00AE Cookie Dough Truffles\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t&amp;apos;) or . = concat(&amp;apos;\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tRecipe\n\t\t\t\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;s\u00AE Treat Pops\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tRecipe\n\t\t\t\t\t\tSnickers\u00AE Cookie Dough Truffles\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t&amp;apos;))]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769161</millis>
+  <sequence>155</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/div_RecipeMMs Treat PopsRecipe&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769162</millis>
+  <sequence>156</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769162</millis>
+  <sequence>157</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">61</property>
+  <property name="stepIndex">18</property>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769163</millis>
+  <sequence>158</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/button_Next&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769173</millis>
+  <sequence>159</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769174</millis>
+  <sequence>160</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769175</millis>
+  <sequence>161</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769176</millis>
+  <sequence>162</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/button_Next&amp;apos; located by &amp;apos;By.xpath: //button[@type = &amp;apos;button&amp;apos; and (text() = &amp;apos;Next&amp;apos; or . = &amp;apos;Next&amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769209</millis>
+  <sequence>163</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/button_Next&amp;apos; located by &amp;apos;By.xpath: //button[@type = &amp;apos;button&amp;apos; and (text() = &amp;apos;Next&amp;apos; or . = &amp;apos;Next&amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769210</millis>
+  <sequence>164</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/button_Next&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769211</millis>
+  <sequence>165</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769211</millis>
+  <sequence>166</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">63</property>
+  <property name="stepIndex">19</property>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769215</millis>
+  <sequence>167</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (3)&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769224</millis>
+  <sequence>168</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769225</millis>
+  <sequence>169</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769225</millis>
+  <sequence>170</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769226</millis>
+  <sequence>171</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (3)&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;https://www.walmart.com/ip/52024994&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769273</millis>
+  <sequence>172</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 3 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (3)&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;https://www.walmart.com/ip/52024994&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769274</millis>
+  <sequence>173</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (3)&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769275</millis>
+  <sequence>174</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769275</millis>
+  <sequence>175</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">64</property>
+  <property name="stepIndex">20</property>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769276</millis>
+  <sequence>176</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (2)&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769286</millis>
+  <sequence>177</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769286</millis>
+  <sequence>178</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769287</millis>
+  <sequence>179</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769288</millis>
+  <sequence>180</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (2)&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;https://www.walmart.com/ip/51430454&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769354</millis>
+  <sequence>181</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 3 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (2)&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;https://www.walmart.com/ip/51430454&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769355</millis>
+  <sequence>182</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (2)&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769355</millis>
+  <sequence>183</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769355</millis>
+  <sequence>184</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">65</property>
+  <property name="stepIndex">21</property>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769356</millis>
+  <sequence>185</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (1)&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769361</millis>
+  <sequence>186</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769361</millis>
+  <sequence>187</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769362</millis>
+  <sequence>188</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769362</millis>
+  <sequence>189</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (1)&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;https://www.walmart.com/ip/51430456&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769390</millis>
+  <sequence>190</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 3 web elements with id: &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (1)&amp;apos; located by &amp;apos;By.xpath: //a[@href = &amp;apos;https://www.walmart.com/ip/51430456&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769390</millis>
+  <sequence>191</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (1)&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769391</millis>
+  <sequence>192</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769391</millis>
+  <sequence>193</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : closeBrowser</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">67</property>
+  <property name="stepIndex">22</property>
+</record>
+<record>
+  <date>2018-06-20T15:46:09</date>
+  <millis>1529489769411</millis>
+  <sequence>194</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Closing browser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:10</date>
+  <millis>1529489770501</millis>
+  <sequence>195</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is closed</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:10</date>
+  <millis>1529489770502</millis>
+  <sequence>196</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : closeBrowser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:10</date>
+  <millis>1529489770503</millis>
+  <sequence>197</sequence>
+  <logger>com.kms.katalon.core.logging.KeywordLogger</logger>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/New Test Case FAILED because (of) com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: &amp;apos;Object Repository/spy_Made_for_Summer/div_Skittles All American Cand&amp;apos; located by &amp;apos;By.xpath: //div[(text() = concat(&amp;apos;\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles, All American Candy Bowl...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$19.95\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Red, White &amp;amp; Blue Milk Chocolate...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $10.75\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Red, White &amp;amp; Blue Peanut Chocolate...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t3.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t4\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles, America Mix Skittles Candy,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t23\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$6.58\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSNICKERS, Minis Size Chocolate Bars...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$2.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Peanut Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t230\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Caramel Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t3\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Milk Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t143\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tStarburst, Original Fruit Chews Candy,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t38\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $12.38\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles and Starburst, Fun Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t12\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.38\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tStarburst Skittles Lifesavers, Variety...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t30\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles &amp;amp; Starburst Candy Variety...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t5.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t6\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$11.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tLife Savers, 5 Flavors Hard Candy, 41 Oz\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t71\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $6.98\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tLife Savers Wint O Green Mints Candy...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t5.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t109\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$6.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tEclipse Spearmint Sugarfree Chewing...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t30\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tOrbit White Bubblemint Sugarfree Gum,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t40\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n&amp;apos;) or . = concat(&amp;apos;\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles, All American Candy Bowl...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$19.95\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Red, White &amp;amp; Blue Milk Chocolate...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $10.75\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Red, White &amp;amp; Blue Peanut Chocolate...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t3.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t4\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles, America Mix Skittles Candy,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t23\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$6.58\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSNICKERS, Minis Size Chocolate Bars...\n\n\t\t\t\n\t\t\t\t\u00A0\n\t\t\t\t\u00A0\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$2.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Peanut Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t230\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Caramel Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t3\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tM&amp;amp;M&amp;apos; , \&amp;quot;&amp;apos;\&amp;quot; , &amp;apos;S Milk Chocolate Candy Party Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t143\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $9.72\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tLearn more \n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tStarburst, Original Fruit Chews Candy,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t38\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $12.38\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles and Starburst, Fun Size...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t12\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$8.38\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tStarburst Skittles Lifesavers, Variety...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t30\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tSkittles &amp;amp; Starburst Candy Variety...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t5.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t6\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$11.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tLife Savers, 5 Flavors Hard Candy, 41 Oz\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t71\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t $6.98\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tLife Savers Wint O Green Mints Candy...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t5.0 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t109\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$6.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tEclipse Spearmint Sugarfree Chewing...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t30\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\t\t\n\n\t\t\n\t\t\tOrbit White Bubblemint Sugarfree Gum,...\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t4.5 stars\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t40\n\t\t\t\t\t\tratings\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t$5.98\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\tAdd to cart \n\t\t\n\t\t\t2 day shipping\n\t\t\n\t\n\n&amp;apos;))]&amp;apos; not found</message>
+  <exception>
+    <message>com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/spy_Made_for_Summer/div_Skittles All American Cand' located by 'By.xpath: //div[(text() = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , "'" , 'S Red, White &amp; Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , "'" , 'S Red, White &amp; Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , "'" , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , "'" , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , "'" , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles &amp; Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+') or . = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , "'" , 'S Red, White &amp; Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , "'" , 'S Red, White &amp; Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , "'" , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , "'" , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , "'" , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles &amp; Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+'))]' not found</message>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordMain</class>
+      <method>stepFailed</method>
+      <line>32</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>stepFailed</method>
+      <line>65</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1</class>
+      <method>doCall</method>
+      <line>85</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>runKeyword</method>
+      <line>21</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword</class>
+      <method>verifyElementPresent</method>
+      <line>92</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword</class>
+      <method>execute</method>
+      <line>68</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordExecutor</class>
+      <method>executeKeywordForPlatform</method>
+      <line>53</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords</class>
+      <method>verifyElementPresent</method>
+      <line>1418</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$3</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.CallSiteArray</class>
+      <method>defaultCall</method>
+      <line>48</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>141</line>
+    </frame>
+    <frame>
+      <class>Script1529414425910</class>
+      <method>run</method>
+      <line>59</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>183</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>108</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>295</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>286</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>265</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>257</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>201</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>129</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>112</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>81</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>106</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.CallSiteArray</class>
+      <method>defaultCall</method>
+      <line>48</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>141</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1529489717269</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>runScriptOrMainOrTestOrRunnable</method>
+      <line>263</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>run</method>
+      <line>518</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>run</method>
+      <line>507</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>processOnce</method>
+      <line>653</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>run</method>
+      <line>384</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>process</method>
+      <line>370</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>processArgs</method>
+      <line>129</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>main</method>
+      <line>109</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>62</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>498</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.tools.GroovyStarter</class>
+      <method>rootLoader</method>
+      <line>109</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.tools.GroovyStarter</class>
+      <method>main</method>
+      <line>131</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:10</date>
+  <millis>1529489770508</millis>
+  <sequence>198</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/New Test Case</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-06-20T15:46:10</date>
+  <millis>1529489770558</millis>
+  <sequence>199</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/all_env</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

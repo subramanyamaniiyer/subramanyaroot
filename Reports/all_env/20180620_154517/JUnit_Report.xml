@@ -1,0 +1,9281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="all_env" time="47" tests="0" failures="1" errors="0">
+   <testsuite name="all_env" tests="0" failures="1" errors="0" time="47" timestamp="2018-06-20 15:45:23" hostname="smaniiyer - pVDPERVM019.triaddigital.local" id="Test Suites/all_env">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_MAR_Q1718\\Reports\\all_env\\20180620_154517"/>
+         <property name="logFiles" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_MAR_Q1718\\Reports\\all_env\\20180620_154517\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_MAR_Q1718\\Reports\\all_env\\20180620_154517\\1529489768311.png"/>
+         <property name="hostName" value="smaniiyer - pVDPERVM019.triaddigital.local"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Chrome 66.0.3359.181"/>
+         <property name="hostAddress" value="10.2.70.215"/>
+         <property name="sessionId" value="b8f7a9e466b99c9a8364a167874cda8f"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case" classname="Test Cases/New Test Case" status="FAILED">
+         <failure type="FAILED" message="com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/spy_Made_for_Summer/div_Skittles All American Cand' located by 'By.xpath: //div[(text() = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , &quot;'&quot; , 'S Red, White &amp; Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , &quot;'&quot; , 'S Red, White &amp; Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , &quot;'&quot; , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , &quot;'&quot; , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , &quot;'&quot; , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles &amp; Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+') or . = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , &quot;'&quot; , 'S Red, White &amp; Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , &quot;'&quot; , 'S Red, White &amp; Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , &quot;'&quot; , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , &quot;'&quot; , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&amp;M' , &quot;'&quot; , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles &amp; Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+'))]' not found"/>
+         <system-out><![CDATA[2018-06-20 15:45:23 - [TEST_CASE][FAILED] - Test Cases/New Test Case: Test Cases/New Test Case FAILED because (of) com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/spy_Made_for_Summer/div_Skittles All American Cand' located by 'By.xpath: //div[(text() = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles & Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+') or . = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles & Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+'))]' not found
+
+2018-06-20 15:45:24 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-06-20 15:45:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-06-20 15:45:33 - [TEST_STEP][PASSED] - Statement - value1 = false: null
+
+2018-06-20 15:45:33 - [TEST_STEP][PASSED] - Statement - value2 = true: null
+
+2018-06-20 15:45:33 - [TEST_STEP][PASSED] - Statement - xxxx = null: null
+
+2018-06-20 15:45:33 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://wm6.walmart.com/MadeforSummer' successfully
+
+2018-06-20 15:45:35 - [MESSAGE][PASSED] - Navigate to 'https://wm6.walmart.com/MadeforSummer' successfully
+
+2018-06-20 15:45:35 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Made_for_Summer_Mars_Candy/img' is clicked on
+
+2018-06-20 15:45:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Made_for_Summer_Mars_Candy/img' is clicked on
+
+2018-06-20 15:45:35 - [TEST_STEP][PASSED] - Statement - If (com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (1)))): Object 'Object Repository/spy_Made_for_Summer/img' is present
+
+2018-06-20 15:45:35 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (1)' is visible
+
+2018-06-20 15:45:35 - [TEST_STEP][PASSED] - Statement - value1 = true: null
+
+2018-06-20 15:45:35 - [TEST_STEP][PASSED] - Statement - If (value1 == true): Object 'Object Repository/spy_Made_for_Summer/img' is present
+
+2018-06-20 15:45:35 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Made_for_Summer/img' is present
+
+2018-06-20 15:45:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-20 15:45:35 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/img' is present
+
+2018-06-20 15:45:35 - [TEST_STEP][PASSED] - Statement - If (value2 == com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin), CONTINUE_ON_FAILURE)): Object 'Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin' is present
+
+2018-06-20 15:45:36 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin' is visible
+
+2018-06-20 15:45:36 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin' is present
+
+2018-06-20 15:45:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-20 15:45:36 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin' is present
+
+2018-06-20 15:45:36 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Made_for_Summer/img' is present
+
+2018-06-20 15:45:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-20 15:45:36 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/img' is present
+
+2018-06-20 15:45:36 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Made_for_Summer/img (3)' is present
+
+2018-06-20 15:45:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-20 15:45:36 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/img (3)' is present
+
+2018-06-20 15:45:36 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Made_for_Summer/img (2)' is present
+
+2018-06-20 15:45:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-20 15:45:36 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/img (2)' is present
+
+2018-06-20 15:45:36 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Made_for_Summer/img (1)' is present
+
+2018-06-20 15:45:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-20 15:45:36 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/img (1)' is present
+
+2018-06-20 15:45:36 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Made_for_Summer/h4_MMs Treat Pops' is present
+
+2018-06-20 15:45:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-20 15:45:36 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/h4_MMs Treat Pops' is present
+
+2018-06-20 15:45:36 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Made_for_Summer/h1_Make Summer Mmmemorable' is present
+
+2018-06-20 15:45:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-20 15:45:36 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/h1_Make Summer Mmmemorable' is present
+
+2018-06-20 15:45:36 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Made_for_Summer/h1_How Sweet It Is' is present
+
+2018-06-20 15:45:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-20 15:45:36 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/h1_How Sweet It Is' is present
+
+2018-06-20 15:45:36 - [TEST_STEP][FAILED] - verifyElementPresent: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/spy_Made_for_Summer/div_Skittles All American Cand' located by 'By.xpath: //div[(text() = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles & Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+') or . = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles & Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+'))]' not found
+
+2018-06-20 15:45:36 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-20 15:46:09 - [MESSAGE][FAILED] - com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/spy_Made_for_Summer/div_Skittles All American Cand' located by 'By.xpath: //div[(text() = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles & Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+') or . = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles & Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+'))]' not found
+[[ATTACHMENT|C:\\Users\\smaniiyer\\Katalon Studio\\01_MAR_Q1718\\Reports\\all_env\\20180620_154517\\1529489768311.png]]
+
+2018-06-20 15:46:09 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Made_for_Summer/div_RecipeMMs Treat PopsRecipe' is present
+
+2018-06-20 15:46:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-20 15:46:09 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/div_RecipeMMs Treat PopsRecipe' is present
+
+2018-06-20 15:46:09 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Made_for_Summer/button_Next' is present
+
+2018-06-20 15:46:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-20 15:46:09 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/button_Next' is present
+
+2018-06-20 15:46:09 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (3)' is present
+
+2018-06-20 15:46:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-20 15:46:09 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (3)' is present
+
+2018-06-20 15:46:09 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (2)' is present
+
+2018-06-20 15:46:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-20 15:46:09 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (2)' is present
+
+2018-06-20 15:46:09 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (1)' is present
+
+2018-06-20 15:46:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-06-20 15:46:09 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Made_for_Summer/a_Tile-linkOverlay js-tile-lin (1)' is present
+
+2018-06-20 15:46:09 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-06-20 15:46:10 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[2018-06-20 15:45:23 - [TEST_CASE][FAILED] - Test Cases/New Test Case: Test Cases/New Test Case FAILED because (of) com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/spy_Made_for_Summer/div_Skittles All American Cand' located by 'By.xpath: //div[(text() = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles & Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+') or . = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles & Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+'))]' not found]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-20 15:45:23 - [TEST_SUITE][FAILED] - all_env: Test Cases/New Test Case FAILED because (of) com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/spy_Made_for_Summer/div_Skittles All American Cand' located by 'By.xpath: //div[(text() = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles & Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+') or . = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles & Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+'))]' not found]]></system-out>
+      <system-err><![CDATA[2018-06-20 15:45:23 - [TEST_SUITE][FAILED] - all_env: Test Cases/New Test Case FAILED because (of) com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/spy_Made_for_Summer/div_Skittles All American Cand' located by 'By.xpath: //div[(text() = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles & Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+') or . = concat('
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, All American Candy Bowl...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$19.95
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Milk Chocolate...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $10.75
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Red, White & Blue Peanut Chocolate...
+
+			
+				
+					
+					
+					
+					3.5 stars
+				
+				
+					4
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles, America Mix Skittles Candy,...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					23
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.58
+					
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			SNICKERS, Minis Size Chocolate Bars...
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$2.98
+					
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Peanut Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					230
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Add to cart 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Caramel Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					3
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			M&M' , "'" , 'S Milk Chocolate Candy Party Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					143
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.98
+					
+						
+							 $9.72
+						
+						
+				
+			
+		
+		Learn more 
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst, Original Fruit Chews Candy,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					38
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $12.38
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles and Starburst, Fun Size...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					12
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$8.38
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Starburst Skittles Lifesavers, Variety...
+
+			
+				
+					
+					
+					
+					4.0 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Skittles & Starburst Candy Variety...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					6
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$11.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers, 5 Flavors Hard Candy, 41 Oz
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					71
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+						
+							 $6.98
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Life Savers Wint O Green Mints Candy...
+
+			
+				
+					
+					
+					
+					5.0 stars
+				
+				
+					109
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$6.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Eclipse Spearmint Sugarfree Chewing...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					30
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Orbit White Bubblemint Sugarfree Gum,...
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					40
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$5.98
+					
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+'))]' not found]]></system-err>
+   </testsuite>
+</testsuites>
