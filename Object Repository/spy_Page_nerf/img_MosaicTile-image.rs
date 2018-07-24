@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_MosaicTile-image</name>
+   <tag></tag>
+   <elementGuidId>ef64f848-af36-4520-89a0-98582c24a4f8</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>NERF Rival Precision Battling</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//i5.walmartimages.com/dfw/4ff9c6c9-2f4f/k2-_67b3091b-99a2-48ba-a89d-8a62aee08054.v1.jpg?odnWidth=672&amp;odnHeight=936&amp;odnBg=ffffff</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MosaicTile-image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;centerContent&quot;)/div[1]/span[3]/div[@class=&quot;Mosaic ResponsiveContainer&quot;]/div[@class=&quot;MosaicLayout3Up&quot;]/div[@class=&quot;MosaicLayout3Up-col-wrap&quot;]/div[@class=&quot;MosaicLayout3Up-col-left&quot;]/a[@class=&quot;MosaicTile&quot;]/span[@class=&quot;MosaicTile-image-wrap&quot;]/img[@class=&quot;MosaicTile-image&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
