@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+functionalsuite,Chrome 66.0.3359.181,,2018-06-19 20:54:09,2018-06-19 20:54:21,11.734s,PASSED
+,,,,,,
+Test Cases/New Test Case,Chrome 66.0.3359.181,,2018-06-19 20:54:10,2018-06-19 20:54:21,11.107s,PASSED
+openBrowser,Chrome 66.0.3359.181,,2018-06-19 20:54:11,2018-06-19 20:54:15,4.824s,PASSED
+navigateToUrl,Chrome 66.0.3359.181,,2018-06-19 20:54:15,2018-06-19 20:54:18,2.837s,PASSED
+maximizeWindow,Chrome 66.0.3359.181,,2018-06-19 20:54:18,2018-06-19 20:54:19,1.165s,PASSED
+"Statement - If (com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/spy_Packed_With_Love/img), 0, CONTINUE_ON_FAILURE))",Chrome 66.0.3359.181,,2018-06-19 20:54:19,2018-06-19 20:54:20,0.123s,PASSED
+verifyElementPresent,Chrome 66.0.3359.181,,2018-06-19 20:54:20,2018-06-19 20:54:20,0.040s,PASSED
+comment,Chrome 66.0.3359.181,,2018-06-19 20:54:20,2018-06-19 20:54:20,0.032s,PASSED
+verifyElementPresent,Chrome 66.0.3359.181,,2018-06-19 20:54:20,2018-06-19 20:54:20,0.030s,PASSED
+verifyElementPresent,Chrome 66.0.3359.181,,2018-06-19 20:54:20,2018-06-19 20:54:20,0.041s,PASSED
+verifyElementPresent,Chrome 66.0.3359.181,,2018-06-19 20:54:20,2018-06-19 20:54:20,0.027s,PASSED
+verifyElementPresent,Chrome 66.0.3359.181,,2018-06-19 20:54:20,2018-06-19 20:54:20,0.047s,PASSED
+verifyElementPresent,Chrome 66.0.3359.181,,2018-06-19 20:54:20,2018-06-19 20:54:20,0.050s,PASSED
+verifyElementPresent,Chrome 66.0.3359.181,,2018-06-19 20:54:20,2018-06-19 20:54:20,0.048s,PASSED
+verifyElementPresent,Chrome 66.0.3359.181,,2018-06-19 20:54:20,2018-06-19 20:54:20,0.047s,PASSED
+verifyElementPresent,Chrome 66.0.3359.181,,2018-06-19 20:54:20,2018-06-19 20:54:20,0.048s,PASSED
+verifyElementPresent,Chrome 66.0.3359.181,,2018-06-19 20:54:20,2018-06-19 20:54:20,0.051s,PASSED
+closeBrowser,Chrome 66.0.3359.181,,2018-06-19 20:54:20,2018-06-19 20:54:21,1.005s,PASSED
