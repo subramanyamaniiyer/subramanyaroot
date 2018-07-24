@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="all_envs" time="22" tests="1" failures="0" errors="0">
+   <testsuite name="all_envs" tests="1" failures="0" errors="0" time="22" timestamp="2018-06-20 16:19:21" hostname="smaniiyer - pVDPERVM019.triaddigital.local" id="Test Suites/all_envs">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_HMK_P5789\\Reports\\all_envs\\20180620_161914"/>
+         <property name="logFiles" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_HMK_P5789\\Reports\\all_envs\\20180620_161914\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="smaniiyer - pVDPERVM019.triaddigital.local"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Chrome 66.0.3359.181"/>
+         <property name="hostAddress" value="10.2.70.215"/>
+         <property name="sessionId" value="5d8aa9dade7999a106e91df7ee34f43a"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case" classname="Test Cases/New Test Case" status="PASSED">
+         <system-out><![CDATA[2018-06-20 16:19:22 - [TEST_CASE][PASSED] - Test Cases/New Test Case: Test Cases/New Test Case
+
+2018-06-20 16:19:23 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-06-20 16:19:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-06-20 16:19:33 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://staging-walmart.triadretail.net/hallmark' successfully
+
+2018-06-20 16:19:40 - [MESSAGE][PASSED] - Navigate to 'https://staging-walmart.triadretail.net/hallmark' successfully
+
+2018-06-20 16:19:40 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Greeting_Cards_Hallmark/h4_Birthday Cards' is clicked on
+
+2018-06-20 16:19:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Greeting_Cards_Hallmark/h4_Birthday Cards' is clicked on
+
+2018-06-20 16:19:40 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/p_Important Walmart Disclaimer' is present
+
+2018-06-20 16:19:40 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/p_Important Walmart Disclaimer' is present
+
+2018-06-20 16:19:40 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/h4_Wedding Cards  Gift Wrap' is present
+
+2018-06-20 16:19:40 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/h4_Wedding Cards  Gift Wrap' is present
+
+2018-06-20 16:19:40 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/h4_Celebration Cards  Gift Wra' is present
+
+2018-06-20 16:19:40 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/h4_Celebration Cards  Gift Wra' is present
+
+2018-06-20 16:19:40 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/h4_Birthday Gift Wrap' is present
+
+2018-06-20 16:19:40 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/h4_Birthday Gift Wrap' is present
+
+2018-06-20 16:19:40 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/h4_Birthday Cards' is present
+
+2018-06-20 16:19:40 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/h4_Birthday Cards' is present
+
+2018-06-20 16:19:40 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/h4_Baby Cards  Gift Wrap' is present
+
+2018-06-20 16:19:40 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/h4_Baby Cards  Gift Wrap' is present
+
+2018-06-20 16:19:40 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/div_Shop online or find a part' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/div_Shop online or find a part' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (9)' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (9)' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (8)' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (8)' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (7)' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (7)' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (6)' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (6)' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (5)' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (5)' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (4)' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (4)' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (3)' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (3)' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (2)' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (2)' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (19)' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (19)' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (18)' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (18)' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (17)' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (17)' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (16)' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (16)' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (15)' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (15)' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (14)' is present
+
+2018-06-20 16:19:41 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (14)' is present
+
+2018-06-20 16:19:41 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (13)' is present
+
+2018-06-20 16:19:42 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (13)' is present
+
+2018-06-20 16:19:42 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (12)' is present
+
+2018-06-20 16:19:42 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (12)' is present
+
+2018-06-20 16:19:42 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (11)' is present
+
+2018-06-20 16:19:42 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (11)' is present
+
+2018-06-20 16:19:42 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (10)' is present
+
+2018-06-20 16:19:42 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (10)' is present
+
+2018-06-20 16:19:42 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (1)' is present
+
+2018-06-20 16:19:42 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Greeting_Cards_Hallmark/a_Tile-linkOverlay js-tile-lin (1)' is present
+
+2018-06-20 16:19:42 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-06-20 16:19:43 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-20 16:19:21 - [TEST_SUITE][PASSED] - all_envs: Test Cases/New Test Case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
