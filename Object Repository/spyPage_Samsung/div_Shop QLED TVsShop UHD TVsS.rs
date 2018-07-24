@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Shop QLED TVsShop UHD TVsS</name>
+   <tag></tag>
+   <elementGuidId>10e452e6-4cc3-4926-ac9e-a729413bf3fb</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-module</name>
+      <type>Main</type>
+      <value>FeaturedCategoriesCollapsible</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-module-id</name>
+      <type>Main</type>
+      <value>f34ad284-0941-46ff-81bc-6c88fcb9c5ad</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>FeaturedCategoriesCollapsible</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tl-id</name>
+      <type>Main</type>
+      <value>brandpage-contentZone16-FeaturedCategoriesCollapsible</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop QLED TVsShop UHD TVsShop Home Audio TheaterShop All Samsung</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;centerContent&quot;)/div[1]/span[3]/div[@class=&quot;FeaturedCategoriesCollapsible&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
