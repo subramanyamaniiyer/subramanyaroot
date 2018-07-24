@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="functionalsuite" time="13" tests="1" failures="0" errors="0">
+   <testsuite name="functionalsuite" tests="1" failures="0" errors="0" time="13" timestamp="2018-06-19 19:42:22" hostname="smaniiyer - pVDPERVM019.triaddigital.local" id="Test Suites/functionalsuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_ECM_P1551\\Reports\\functionalsuite\\20180619_194214"/>
+         <property name="logFiles" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_ECM_P1551\\Reports\\functionalsuite\\20180619_194214\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="smaniiyer - pVDPERVM019.triaddigital.local"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Chrome 66.0.3359.181"/>
+         <property name="hostAddress" value="10.2.70.215"/>
+         <property name="sessionId" value="b38080050b318f050b2fb789a10f6306"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case" classname="Test Cases/New Test Case" status="PASSED">
+         <system-out><![CDATA[2018-06-19 19:42:23 - [TEST_CASE][PASSED] - Test Cases/New Test Case: Test Cases/New Test Case
+
+2018-06-19 19:42:23 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-06-19 19:42:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-06-19 19:42:30 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://staging-walmart.triadretail.net/halo-top' successfully
+
+2018-06-19 19:42:33 - [MESSAGE][PASSED] - Navigate to 'https://staging-walmart.triadretail.net/halo-top' successfully
+
+2018-06-19 19:42:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Halo_Top_Creamery/img_trm-desktop' is clicked on
+
+2018-06-19 19:42:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Halo_Top_Creamery/img_trm-desktop' is clicked on
+
+2018-06-19 19:42:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Halo_Top_Creamery/p_Finally enjoy ice cream as a' is clicked on
+
+2018-06-19 19:42:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Halo_Top_Creamery/p_Finally enjoy ice cream as a' is clicked on
+
+2018-06-19 19:42:33 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/p_Finally enjoy ice cream as a' is present
+
+2018-06-19 19:42:33 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/p_Finally enjoy ice cream as a' is present
+
+2018-06-19 19:42:33 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/img_trm-desktop' is present
+
+2018-06-19 19:42:33 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/img_trm-desktop' is present
+
+2018-06-19 19:42:33 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/img' is present
+
+2018-06-19 19:42:33 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/img' is present
+
+2018-06-19 19:42:33 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/img (8)' is present
+
+2018-06-19 19:42:33 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/img (8)' is present
+
+2018-06-19 19:42:33 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/img (7)' is present
+
+2018-06-19 19:42:33 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/img (7)' is present
+
+2018-06-19 19:42:33 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/img (6)' is present
+
+2018-06-19 19:42:33 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/img (6)' is present
+
+2018-06-19 19:42:33 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/img (5)' is present
+
+2018-06-19 19:42:33 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/img (5)' is present
+
+2018-06-19 19:42:33 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/img (4)' is present
+
+2018-06-19 19:42:33 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/img (4)' is present
+
+2018-06-19 19:42:33 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/img (3)' is present
+
+2018-06-19 19:42:33 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/img (3)' is present
+
+2018-06-19 19:42:33 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/img (2)' is present
+
+2018-06-19 19:42:33 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/img (2)' is present
+
+2018-06-19 19:42:33 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/img (1)' is present
+
+2018-06-19 19:42:33 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/img (1)' is present
+
+2018-06-19 19:42:33 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/h3_Stay up to Date on All the' is present
+
+2018-06-19 19:42:34 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/h3_Stay up to Date on All the' is present
+
+2018-06-19 19:42:34 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/h3_Decadent  Creamy Ice Cream' is present
+
+2018-06-19 19:42:34 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/h3_Decadent  Creamy Ice Cream' is present
+
+2018-06-19 19:42:34 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/h2_Find Your Flavor Before It' is present
+
+2018-06-19 19:42:34 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/h2_Find Your Flavor Before It' is present
+
+2018-06-19 19:42:34 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/div_Find Your Flavor Before It' is present
+
+2018-06-19 19:42:34 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/div_Find Your Flavor Before It' is present
+
+2018-06-19 19:42:34 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/a_Tile-linkOverlay js-tile-lin' is present
+
+2018-06-19 19:42:34 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/a_Tile-linkOverlay js-tile-lin' is present
+
+2018-06-19 19:42:34 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/a_Tile-linkOverlay js-tile-lin (3)' is present
+
+2018-06-19 19:42:34 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/a_Tile-linkOverlay js-tile-lin (3)' is present
+
+2018-06-19 19:42:34 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/a_Tile-linkOverlay js-tile-lin (2)' is present
+
+2018-06-19 19:42:34 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/a_Tile-linkOverlay js-tile-lin (2)' is present
+
+2018-06-19 19:42:34 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Halo_Top_Creamery_spy/a_Tile-linkOverlay js-tile-lin (1)' is present
+
+2018-06-19 19:42:34 - [MESSAGE][PASSED] - Object 'Object Repository/Halo_Top_Creamery_spy/a_Tile-linkOverlay js-tile-lin (1)' is present
+
+2018-06-19 19:42:34 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-06-19 19:42:35 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-19 19:42:22 - [TEST_SUITE][PASSED] - functionalsuite: Test Cases/New Test Case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
