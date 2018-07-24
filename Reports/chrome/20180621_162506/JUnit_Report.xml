@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="chrome" time="14" tests="1" failures="0" errors="0">
+   <testsuite name="chrome" tests="1" failures="0" errors="0" time="14" timestamp="2018-06-21 16:25:09" hostname="smaniiyer - pVDPERVM019.triaddigital.local" id="Test Suites/chrome">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_PNG_R9860\\Reports\\chrome\\20180621_162506"/>
+         <property name="logFiles" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_PNG_R9860\\Reports\\chrome\\20180621_162506\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="smaniiyer - pVDPERVM019.triaddigital.local"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Chrome 66.0.3359.181"/>
+         <property name="hostAddress" value="10.2.70.215"/>
+         <property name="sessionId" value="e33f2d733bba8d27b16427348c097b56"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/regg" classname="Test Cases/regg" status="PASSED">
+         <system-out><![CDATA[2018-06-21 16:25:09 - [TEST_CASE][PASSED] - Test Cases/regg: Test Cases/regg
+
+2018-06-21 16:25:11 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-06-21 16:25:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-06-21 16:25:17 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://staging.walmart.triadretail.net/OldSpiceAmericanLegends' successfully
+
+2018-06-21 16:25:21 - [MESSAGE][PASSED] - Navigate to 'http://staging.walmart.triadretail.net/OldSpiceAmericanLegends' successfully
+
+2018-06-21 16:25:21 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Old_Spice/p_Important Walmart Disclaimer' is present
+
+2018-06-21 16:25:21 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Old_Spice/p_Important Walmart Disclaimer' is present
+
+2018-06-21 16:25:21 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Old_Spice/img_pov1 active' is present
+
+2018-06-21 16:25:21 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Old_Spice/img_pov1 active' is present
+
+2018-06-21 16:25:21 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Old_Spice/div_Old Spice Red Zone Collect' is present
+
+2018-06-21 16:25:21 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Old_Spice/div_Old Spice Red Zone Collect' is present
+
+2018-06-21 16:25:21 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Old_Spice/a_Tile-linkOverlay js-tile-lin' is present
+
+2018-06-21 16:25:21 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Old_Spice/a_Tile-linkOverlay js-tile-lin' is present
+
+2018-06-21 16:25:21 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Old_Spice/a_btn-midnight' is present
+
+2018-06-21 16:25:21 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Old_Spice/a_btn-midnight' is present
+
+2018-06-21 16:25:21 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/spy_Old_Spice/a_btn-blastoff active' is present
+
+2018-06-21 16:25:21 - [MESSAGE][PASSED] - Object 'Object Repository/spy_Old_Spice/a_btn-blastoff active' is present
+
+2018-06-21 16:25:21 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-06-21 16:25:23 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-21 16:25:09 - [TEST_SUITE][PASSED] - chrome: Test Cases/regg]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="IE" time="7" tests="0" failures="1" errors="0">
+   <testsuite name="IE" tests="0" failures="1" errors="0" time="7" timestamp="2018-06-21 16:21:47" hostname="smaniiyer - pVDPERVM019.triaddigital.local" id="Test Suites/IE">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_PNG_R9860\\Reports\\IE\\20180621_162106"/>
+         <property name="logFiles" value="C:\\Users\\smaniiyer\\Katalon Studio\\01_PNG_R9860\\Reports\\IE\\20180621_162106\\execution0.log, C:\\Users\\smaniiyer\\Katalon Studio\\01_PNG_R9860\\Reports\\IE\\20180621_162106\\IEDriverServer.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="smaniiyer - pVDPERVM019.triaddigital.local"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="IE 11"/>
+         <property name="hostAddress" value="10.2.70.215"/>
+         <property name="sessionId" value="df78a5af-7615-4b91-b5ab-bf8253c8b73f"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/regg" classname="Test Cases/regg" status="FAILED">
+         <failure type="FAILED" message="Unable to verify object 'Object Repository/spy_Old_Spice/p_Important Walmart Disclaimer' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//p[(text() = 'Important Walmart Disclaimer: Product information is provided by the supplier or manufacturer of the product and should not be construed as advice. Walmart does not sponsor, recommend or endorse any third party, product, service or information provided on this site.' or . = 'Important Walmart Disclaimer: Product information is provided by the supplier or manufacturer of the product and should not be construed as advice. Walmart does not sponsor, recommend or endorse any third party, product, service or information provided on this site.')]})"/>
+         <system-out><![CDATA[2018-06-21 16:21:47 - [TEST_CASE][FAILED] - Test Cases/regg: Test Cases/regg FAILED because (of) Unable to verify object 'Object Repository/spy_Old_Spice/p_Important Walmart Disclaimer' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//p[(text() = 'Important Walmart Disclaimer: Product information is provided by the supplier or manufacturer of the product and should not be construed as advice. Walmart does not sponsor, recommend or endorse any third party, product, service or information provided on this site.' or . = 'Important Walmart Disclaimer: Product information is provided by the supplier or manufacturer of the product and should not be construed as advice. Walmart does not sponsor, recommend or endorse any third party, product, service or information provided on this site.')]})
+
+2018-06-21 16:21:48 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-06-21 16:21:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-06-21 16:21:52 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://staging.walmart.triadretail.net/OldSpiceAmericanLegends' successfully
+
+2018-06-21 16:21:52 - [MESSAGE][PASSED] - Navigate to 'http://staging.walmart.triadretail.net/OldSpiceAmericanLegends' successfully
+
+2018-06-21 16:21:52 - [TEST_STEP][FAILED] - verifyElementPresent: Unable to verify object 'Object Repository/spy_Old_Spice/p_Important Walmart Disclaimer' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//p[(text() = 'Important Walmart Disclaimer: Product information is provided by the supplier or manufacturer of the product and should not be construed as advice. Walmart does not sponsor, recommend or endorse any third party, product, service or information provided on this site.' or . = 'Important Walmart Disclaimer: Product information is provided by the supplier or manufacturer of the product and should not be construed as advice. Walmart does not sponsor, recommend or endorse any third party, product, service or information provided on this site.')]})
+
+2018-06-21 16:21:53 - [MESSAGE][WARNING] - Cannot take screenshot
+
+2018-06-21 16:21:53 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/spy_Old_Spice/p_Important Walmart Disclaimer' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//p[(text() = 'Important Walmart Disclaimer: Product information is provided by the supplier or manufacturer of the product and should not be construed as advice. Walmart does not sponsor, recommend or endorse any third party, product, service or information provided on this site.' or . = 'Important Walmart Disclaimer: Product information is provided by the supplier or manufacturer of the product and should not be construed as advice. Walmart does not sponsor, recommend or endorse any third party, product, service or information provided on this site.')]})
+
+2018-06-21 16:21:53 - [TEST_STEP][FAILED] - verifyElementPresent: Unable to verify object 'Object Repository/spy_Old_Spice/img_pov1 active' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//img[@src = '/MediaOMP/2018/PNG/01_PNG_R9860_OldSpiceAL/img/pov1.jpg' and @alt = 'POV1 Desktop']})
+
+2018-06-21 16:21:53 - [MESSAGE][WARNING] - Cannot take screenshot
+
+2018-06-21 16:21:53 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/spy_Old_Spice/img_pov1 active' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//img[@src = '/MediaOMP/2018/PNG/01_PNG_R9860_OldSpiceAL/img/pov1.jpg' and @alt = 'POV1 Desktop']})
+
+2018-06-21 16:21:53 - [TEST_STEP][FAILED] - verifyElementPresent: Unable to verify object 'Object Repository/spy_Old_Spice/div_Old Spice Red Zone Collect' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//div[(text() = '
+	
+		
+		
+	
+	
+		
+
+		
+			Old Spice Red Zone Collection Swagger…
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					173
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$7.47
+					
+						
+							 $22.00
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Old Spice Red Zone Collection Swagger…
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					173
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$7.47
+					
+						
+							 $22.00
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+' or . = '
+	
+		
+		
+	
+	
+		
+
+		
+			Old Spice Red Zone Collection Swagger…
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					173
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$7.47
+					
+						
+							 $22.00
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Old Spice Red Zone Collection Swagger…
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					173
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$7.47
+					
+						
+							 $22.00
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+')]})
+
+2018-06-21 16:21:53 - [MESSAGE][WARNING] - Cannot take screenshot
+
+2018-06-21 16:21:53 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/spy_Old_Spice/div_Old Spice Red Zone Collect' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//div[(text() = '
+	
+		
+		
+	
+	
+		
+
+		
+			Old Spice Red Zone Collection Swagger…
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					173
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$7.47
+					
+						
+							 $22.00
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Old Spice Red Zone Collection Swagger…
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					173
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$7.47
+					
+						
+							 $22.00
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+' or . = '
+	
+		
+		
+	
+	
+		
+
+		
+			Old Spice Red Zone Collection Swagger…
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					173
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$7.47
+					
+						
+							 $22.00
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+
+	
+		
+		
+	
+	
+		
+
+		
+			Old Spice Red Zone Collection Swagger…
+
+			
+				
+					
+					
+					
+					4.5 stars
+				
+				
+					173
+						ratings
+					
+				
+			
+
+		
+
+		
+			
+				
+					
+						$7.47
+					
+						
+							 $22.00
+						
+						
+				
+			
+		
+		Add to cart 
+		
+			2 day shipping
+		
+	
+
+')]})
+
+2018-06-21 16:21:53 - [TEST_STEP][FAILED] - verifyElementPresent: Unable to verify object 'Object Repository/spy_Old_Spice/a_Tile-linkOverlay js-tile-lin' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//a[@href = 'https://www.walmart.com/ip/22401538']})
+
+2018-06-21 16:21:53 - [MESSAGE][WARNING] - Cannot take screenshot
+
+2018-06-21 16:21:53 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/spy_Old_Spice/a_Tile-linkOverlay js-tile-lin' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//a[@href = 'https://www.walmart.com/ip/22401538']})
+
+2018-06-21 16:21:53 - [TEST_STEP][FAILED] - verifyElementPresent: Unable to verify object 'Object Repository/spy_Old_Spice/a_btn-midnight' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//a[@href = 'javascript:;']})
+
+2018-06-21 16:21:54 - [MESSAGE][WARNING] - Cannot take screenshot
+
+2018-06-21 16:21:54 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/spy_Old_Spice/a_btn-midnight' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//a[@href = 'javascript:;']})
+
+2018-06-21 16:21:54 - [TEST_STEP][FAILED] - verifyElementPresent: Unable to verify object 'Object Repository/spy_Old_Spice/a_btn-blastoff active' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//a[@href = 'javascript:;']})
+
+2018-06-21 16:21:54 - [MESSAGE][WARNING] - Cannot take screenshot
+
+2018-06-21 16:21:54 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/spy_Old_Spice/a_btn-blastoff active' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//a[@href = 'javascript:;']})
+
+2018-06-21 16:21:54 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-06-21 16:21:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[2018-06-21 16:21:47 - [TEST_CASE][FAILED] - Test Cases/regg: Test Cases/regg FAILED because (of) Unable to verify object 'Object Repository/spy_Old_Spice/p_Important Walmart Disclaimer' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//p[(text() = 'Important Walmart Disclaimer: Product information is provided by the supplier or manufacturer of the product and should not be construed as advice. Walmart does not sponsor, recommend or endorse any third party, product, service or information provided on this site.' or . = 'Important Walmart Disclaimer: Product information is provided by the supplier or manufacturer of the product and should not be construed as advice. Walmart does not sponsor, recommend or endorse any third party, product, service or information provided on this site.')]})]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-06-21 16:21:47 - [TEST_SUITE][FAILED] - IE: Test Cases/regg FAILED because (of) Unable to verify object 'Object Repository/spy_Old_Spice/p_Important Walmart Disclaimer' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//p[(text() = 'Important Walmart Disclaimer: Product information is provided by the supplier or manufacturer of the product and should not be construed as advice. Walmart does not sponsor, recommend or endorse any third party, product, service or information provided on this site.' or . = 'Important Walmart Disclaimer: Product information is provided by the supplier or manufacturer of the product and should not be construed as advice. Walmart does not sponsor, recommend or endorse any third party, product, service or information provided on this site.')]})]]></system-out>
+      <system-err><![CDATA[2018-06-21 16:21:47 - [TEST_SUITE][FAILED] - IE: Test Cases/regg FAILED because (of) Unable to verify object 'Object Repository/spy_Old_Spice/p_Important Walmart Disclaimer' is present (Root cause: org.openqa.selenium.NoSuchWindowException: Unable to find elements on closed window
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'PVDPERVM019', ip: '10.2.70.215', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CInternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:20179/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true}
+Session ID: df78a5af-7615-4b91-b5ab-bf8253c8b73f
+*** Element info: {Using=xpath, value=//p[(text() = 'Important Walmart Disclaimer: Product information is provided by the supplier or manufacturer of the product and should not be construed as advice. Walmart does not sponsor, recommend or endorse any third party, product, service or information provided on this site.' or . = 'Important Walmart Disclaimer: Product information is provided by the supplier or manufacturer of the product and should not be construed as advice. Walmart does not sponsor, recommend or endorse any third party, product, service or information provided on this site.')]})]]></system-err>
+   </testsuite>
+</testsuites>
