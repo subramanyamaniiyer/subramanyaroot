@@ -38,5 +38,5 @@ selenium.click("//div[@id='prods']/div[3]/div/div/div")
 selenium.click("//div[@id='prods']/div[2]/div/div/div[2]/div")
 selenium.click("link=Kleenex® Cool Touch™ Moisturizing Facial Tissues, Upright, 2-Ply, 27/Case")
 selenium.click("//img[@alt='Save up to 33% on select Kleenex® Brand products during Back to School']")
-
+//edit
 WebUI.closeBrowser()
