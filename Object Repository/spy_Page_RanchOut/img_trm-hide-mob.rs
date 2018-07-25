@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_trm-hide-mob</name>
+   <tag></tag>
+   <elementGuidId>1fd929fd-1ba0-4a20-ba1b-e965587ff3ab</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/MediaOMP/2018/CLX/01_CLX_O6250_HVBP18/img/pov-simply-dinners.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trm-hide-mob</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;trm-wrap&quot;)/div[@class=&quot;trm-pov&quot;]/div[@class=&quot;trm-pov-slider slick-initialized slick-slider slick-dotted&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;trm-pov-slide trm-pov-simplydinners slick-slide slick-current slick-active&quot;]/div[@class=&quot;trm-container&quot;]/a[@class=&quot;trackMe&quot;]/img[@class=&quot;trm-hide-mob&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
