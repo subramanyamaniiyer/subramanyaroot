@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="UAT" time="17" tests="0" failures="0" errors="1">
+   <testsuite name="UAT" tests="0" failures="0" errors="1" time="17" timestamp="2018-07-25 19:53:29" hostname="smaniiyer - pVDPERVM019.triaddigital.local" id="Test Suites/UAT">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\smaniiyer\\Katalon Studio\\02_PEP_S1174\\Reports\\UAT\\20180725_195320"/>
+         <property name="logFiles" value="C:\\Users\\smaniiyer\\Katalon Studio\\02_PEP_S1174\\Reports\\UAT\\20180725_195320\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="smaniiyer - pVDPERVM019.triaddigital.local"/>
+         <property name="os" value="Windows 8.1 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="10.2.70.215"/>
+         <property name="sessionId" value="cd55ac160410917a8ac37e053a60b375"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 8.1"/>
+      </properties>
+      <testcase name="Test Cases/regression" classname="Test Cases/regression" status="ERROR">
+         <error type="ERROR" message="Test Cases/regression FAILED because (of) groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, java.lang.Integer, com.kms.katalon.core.model.FailureHandling) values: [TestObject - 'Object Repository/spy_PageSave-with-Club-Pickup/div_get rewarded', ...]
+Possible solutions: verifyElementVisible(com.kms.katalon.core.testobject.TestObject, com.kms.katalon.core.model.FailureHandling), verifyElementVisible(com.kms.katalon.core.testobject.TestObject), verifyElementNotVisible(com.kms.katalon.core.testobject.TestObject, com.kms.katalon.core.model.FailureHandling), verifyElementNotVisible(com.kms.katalon.core.testobject.TestObject)"/>
+         <system-out><![CDATA[2018-07-25 19:53:30 - [TEST_CASE][ERROR] - Test Cases/regression: Test Cases/regression FAILED because (of) groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, java.lang.Integer, com.kms.katalon.core.model.FailureHandling) values: [TestObject - 'Object Repository/spy_PageSave-with-Club-Pickup/div_get rewarded', ...]
+Possible solutions: verifyElementVisible(com.kms.katalon.core.testobject.TestObject, com.kms.katalon.core.model.FailureHandling), verifyElementVisible(com.kms.katalon.core.testobject.TestObject), verifyElementNotVisible(com.kms.katalon.core.testobject.TestObject, com.kms.katalon.core.model.FailureHandling), verifyElementNotVisible(com.kms.katalon.core.testobject.TestObject)
+
+2018-07-25 19:53:31 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 19:53:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 19:53:39 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://staging-samsclub.triadretail.net/Featured-Brand/Pepsi/Save-with-Club-Pickup/' successfully
+
+2018-07-25 19:53:44 - [MESSAGE][PASSED] - Navigate to 'https://staging-samsclub.triadretail.net/Featured-Brand/Pepsi/Save-with-Club-Pickup/' successfully
+
+2018-07-25 19:53:44 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-07-25 19:53:45 - [MESSAGE][PASSED] - Current window maximized
+
+2018-07-25 19:53:45 - [TEST_STEP][PASSED] - verifyElementVisible: Finding Test Object with id 'Object Repository/spy_PageSave-with-Club-Pickup/div_get rewarded']]></system-out>
+         <system-err><![CDATA[2018-07-25 19:53:30 - [TEST_CASE][ERROR] - Test Cases/regression: Test Cases/regression FAILED because (of) groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, java.lang.Integer, com.kms.katalon.core.model.FailureHandling) values: [TestObject - 'Object Repository/spy_PageSave-with-Club-Pickup/div_get rewarded', ...]
+Possible solutions: verifyElementVisible(com.kms.katalon.core.testobject.TestObject, com.kms.katalon.core.model.FailureHandling), verifyElementVisible(com.kms.katalon.core.testobject.TestObject), verifyElementNotVisible(com.kms.katalon.core.testobject.TestObject, com.kms.katalon.core.model.FailureHandling), verifyElementNotVisible(com.kms.katalon.core.testobject.TestObject)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-25 19:53:29 - [TEST_SUITE][ERROR] - UAT: Test Cases/regression FAILED because (of) groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, java.lang.Integer, com.kms.katalon.core.model.FailureHandling) values: [TestObject - 'Object Repository/spy_PageSave-with-Club-Pickup/div_get rewarded', ...]
+Possible solutions: verifyElementVisible(com.kms.katalon.core.testobject.TestObject, com.kms.katalon.core.model.FailureHandling), verifyElementVisible(com.kms.katalon.core.testobject.TestObject), verifyElementNotVisible(com.kms.katalon.core.testobject.TestObject, com.kms.katalon.core.model.FailureHandling), verifyElementNotVisible(com.kms.katalon.core.testobject.TestObject)]]></system-out>
+      <system-err><![CDATA[2018-07-25 19:53:29 - [TEST_SUITE][ERROR] - UAT: Test Cases/regression FAILED because (of) groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementVisible() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, java.lang.Integer, com.kms.katalon.core.model.FailureHandling) values: [TestObject - 'Object Repository/spy_PageSave-with-Club-Pickup/div_get rewarded', ...]
+Possible solutions: verifyElementVisible(com.kms.katalon.core.testobject.TestObject, com.kms.katalon.core.model.FailureHandling), verifyElementVisible(com.kms.katalon.core.testobject.TestObject), verifyElementNotVisible(com.kms.katalon.core.testobject.TestObject, com.kms.katalon.core.model.FailureHandling), verifyElementNotVisible(com.kms.katalon.core.testobject.TestObject)]]></system-err>
+   </testsuite>
+</testsuites>

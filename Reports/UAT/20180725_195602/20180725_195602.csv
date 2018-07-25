@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+UAT,Chrome 67.0.3396.99,,2018-07-25 19:56:09,2018-07-25 19:56:30,21.051s,ERROR
+,,,,,,
+Test Cases/regression,Chrome 67.0.3396.99,,2018-07-25 19:56:11,2018-07-25 19:56:28,17.326s,ERROR
+openBrowser,Chrome 67.0.3396.99,,2018-07-25 19:56:12,2018-07-25 19:56:20,7.554s,PASSED
+navigateToUrl,Chrome 67.0.3396.99,,2018-07-25 19:56:20,2018-07-25 19:56:27,7.105s,PASSED
+maximizeWindow,Chrome 67.0.3396.99,,2018-07-25 19:56:27,2018-07-25 19:56:28,1.335s,PASSED
+verifyElementVisible,Chrome 67.0.3396.99,,2018-07-25 19:56:28,2018-07-25 19:56:28,0.048s,PASSED

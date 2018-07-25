@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+UAT,Firefox 54.0,,2018-07-25 19:56:09,2018-07-25 19:56:47,37.296s,ERROR
+,,,,,,
+Test Cases/regression,Firefox 54.0,,2018-07-25 19:56:11,2018-07-25 19:56:45,34.643s,ERROR
+openBrowser,Firefox 54.0,,2018-07-25 19:56:12,2018-07-25 19:56:42,29.943s,PASSED
+navigateToUrl,Firefox 54.0,,2018-07-25 19:56:42,2018-07-25 19:56:45,3.644s,PASSED
+maximizeWindow,Firefox 54.0,,2018-07-25 19:56:45,2018-07-25 19:56:45,0.065s,PASSED
+verifyElementVisible,Firefox 54.0,,2018-07-25 19:56:45,2018-07-25 19:56:45,0.035s,PASSED

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>02_PEP_S1174</description>
+   <name>02_PEP_S1174</name>
+   <tag></tag>
+   <UUID>869234d1-de4e-44a0-aebd-a8f7da776d93</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
