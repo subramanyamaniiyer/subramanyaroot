@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img (1)</name>
+   <name>p_Find a store near you to mak</name>
    <tag></tag>
-   <elementGuidId>bc6e70d3-02fd-4877-97bf-997e569363eb</elementGuidId>
+   <elementGuidId>21d6aa92-c9f9-4733-910e-55e46a4982c3</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,20 +11,20 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>img</value>
+      <value>p</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>src</name>
+      <name>text</name>
       <type>Main</type>
-      <value>/MediaOMP/2018/INT/01_INT_R4483_IntelLenov18/img/speed.jpg</value>
+      <value>Find a store near you to make a difference. </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-power-speed&quot;]/div[@class=&quot;trm-grid desk&quot;]/div[@class=&quot;trm-grid-col trm-speed&quot;]/img[1]</value>
+      <value>id(&quot;main&quot;)/div[@class=&quot;container-fluid trm-no-paddin&quot;]/div[@class=&quot;row--&quot;]/div[@class=&quot;trm-support&quot;]/div[@class=&quot;trm-grid&quot;]/div[@class=&quot;trm-grid-col grid-content&quot;]/p[1]</value>
    </webElementProperties>
 </WebElementEntity>

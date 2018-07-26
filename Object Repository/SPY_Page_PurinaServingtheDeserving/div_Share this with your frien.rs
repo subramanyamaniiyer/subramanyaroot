@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>ul_123</name>
+   <name>div_Share this with your frien</name>
    <tag></tag>
-   <elementGuidId>b50749f9-d147-4220-9977-6c2ba0f4e6ab</elementGuidId>
+   <elementGuidId>d83d21d8-2a89-4a07-aa72-f31565ca042b</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,34 +11,38 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>ul</value>
+      <value>div</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>carousel-paginator-list</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>tablist</value>
+      <value>col-xs-12 col-lg-10</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>123</value>
+      <value>
+            
+                
+                  Share this with your friends:
+                  Facebook
+                  Twitter
+                  Email
+                  Pinterest
+                  0Share
+                
+            
+          </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-efficient&quot;]/div[@class=&quot;trm-sleek-slider slick-initialized slick-slider slick-dotted&quot;]/ul[@class=&quot;carousel-paginator-list&quot;]</value>
+      <value>id(&quot;sharing_sticky&quot;)/div[@class=&quot;center-block ninesixtywide&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-lg-10&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

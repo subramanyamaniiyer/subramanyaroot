@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img (3)</name>
+   <name>img_trm-purina-pov desk</name>
    <tag></tag>
-   <elementGuidId>c77a82ba-d78b-45fe-9f87-d30e76ee9489</elementGuidId>
+   <elementGuidId>1a7a8040-7e97-4316-93b7-fa1045882fef</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,13 +18,27 @@
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/MediaOMP/2018/INT/01_INT_R4483_IntelLenov18/img/tt.png</value>
+      <value>media/img/pov-graphic.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Pov</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trm-purina-pov desk</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-share&quot;]/ul[1]/li[2]/a[@class=&quot;trm-tw cursor_on trackMe&quot;]/img[1]</value>
+      <value>id(&quot;main&quot;)/div[@class=&quot;container-fluid trm-no-paddin&quot;]/div[@class=&quot;row--&quot;]/div[@class=&quot;trm-pov&quot;]/img[@class=&quot;trm-purina-pov desk&quot;]</value>
    </webElementProperties>
 </WebElementEntity>
