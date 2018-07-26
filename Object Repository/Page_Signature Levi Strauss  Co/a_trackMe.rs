@@ -3,7 +3,7 @@
    <description></description>
    <name>a_trackMe</name>
    <tag></tag>
-   <elementGuidId>502605a2-3a0d-47d8-90b9-bc8c4c6c8d4e</elementGuidId>
+   <elementGuidId>5036b33f-a2e3-4aec-b0a3-1a20e5ed07ef</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,7 +18,7 @@
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://www.walmart.com/browse/ideapad-330s/0/0/?_refineresult=true&amp;_be_shelf_id=61096&amp;search_sort=100&amp;facet=shelf_id:61096</value>
+      <value>https://www.walmart.com/browse/signature-by-levi-strauss-&amp;-co-mens/0/0/?_refineresult=true&amp;_be_shelf_id=61469&amp;search_sort=100&amp;facet=shelf_id:61469</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -32,20 +32,27 @@
       <matchCondition>equals</matchCondition>
       <name>omnitag</name>
       <type>Main</type>
-      <value>pov-1</value>
+      <value>its in the fit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>s_objectID=&quot;https://www.walmart.com/browse/ideapad-330s/0/0/?_refineresult=true&amp;_be_shelf_id=61096&amp;search_sor_1&quot;;return this.s_oc?this.s_oc(e):true</value>
+      <value>s_objectID=&quot;https://www.walmart.com/browse/signature-by-levi-strauss-&amp;-co-mens/0/0/?_refineresult=true&amp;_be_sh_1&quot;;return this.s_oc?this.s_oc(e):true</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-pov-section&quot;]/div[@class=&quot;trm-pov-slider&quot;]/div[@class=&quot;trm-pov trm-pov-1&quot;]/a[@class=&quot;trackMe&quot;]</value>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-pov&quot;]/div[@class=&quot;trm-pov-slider slick-initialized slick-slider slick-dotted&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;trm-men-slide trm-slide slick-slide slick-current slick-active&quot;]/a[@class=&quot;trackMe&quot;]</value>
    </webElementProperties>
 </WebElementEntity>
