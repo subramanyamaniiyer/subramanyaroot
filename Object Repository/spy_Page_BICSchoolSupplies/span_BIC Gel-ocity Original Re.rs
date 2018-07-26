@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Tile-linkOverlay js-tile-lin (1)</name>
+   <name>span_BIC Gel-ocity Original Re</name>
    <tag></tag>
-   <elementGuidId>87468b59-cc51-4e16-91f3-a63a1cb9ea56</elementGuidId>
+   <elementGuidId>64e22da0-1b64-4f19-9825-6e7e3fe9cb0f</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,69 +11,100 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
+      <value>span</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>Tile-linkOverlay js-tile-link-overlay trackMe</value>
+      <value>prod slick-slide slick-active</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>omnitag</name>
+      <name>data-sku</name>
       <type>Main</type>
-      <value>Add to cart - 350937740 - product</value>
+      <value>931395582</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>omniint</name>
+      <name>data-slick-index</name>
       <type>Main</type>
-      <value>link</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>https://www.walmart.com/ip/350937740</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
+      <value>2</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-hidden</name>
       <type>Main</type>
-      <value>true</value>
+      <value>false</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-uid</name>
+      <name>tabindex</name>
       <type>Main</type>
-      <value>350937740-productTile</value>
+      <value>-1</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>role</name>
       <type>Main</type>
-      <value>s_objectID=&quot;https://www.walmart.com/ip/350937740_1&quot;;return this.s_oc?this.s_oc(e):true</value>
+      <value>option</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>slick-slide02</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	
+		
+		
+	
+	
+		
+
+		
+			BIC Gel-ocity Original Retractable…
+
+			
+				 
+				 
+			
+
+		
+
+		
+			
+				
+					
+						$12.94
+					
+				
+			
+		
+
+		Add to cart 
+	
+
+</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;dynpricing-scroller&quot;)/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/span[@class=&quot;prod slick-slide slick-active&quot;]/div[@class=&quot;Tile js-tile trm-dynpricing&quot;]/a[@class=&quot;Tile-linkOverlay js-tile-link-overlay trackMe&quot;]</value>
+      <value>id(&quot;dynpricing-scroller-notebooks&quot;)/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/span[@class=&quot;prod slick-slide slick-active&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

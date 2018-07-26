@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>ul_123</name>
+   <name>div_Variety of vibrant colors</name>
    <tag></tag>
-   <elementGuidId>b50749f9-d147-4220-9977-6c2ba0f4e6ab</elementGuidId>
+   <elementGuidId>05608c44-345f-4256-bbb4-f008a6278933</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,34 +11,36 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>ul</value>
+      <value>div</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>carousel-paginator-list</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>tablist</value>
+      <value>trm-product-head</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>123</value>
+      <value>
+                    
+                                                
+                    
+                                            
+                        Variety of vibrant colors
+                        Make your mark with highlighters, permanent markers, dry erase markers &amp; fineliners.
+                        Shop all markers
+                    
+                 </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-efficient&quot;]/div[@class=&quot;trm-sleek-slider slick-initialized slick-slider slick-dotted&quot;]/ul[@class=&quot;carousel-paginator-list&quot;]</value>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-pagewrap&quot;]/div[@class=&quot;trm-container&quot;]/div[@class=&quot;trm-inner-container&quot;]/div[@class=&quot;trm-product-section&quot;]/div[@class=&quot;trm-product-head&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

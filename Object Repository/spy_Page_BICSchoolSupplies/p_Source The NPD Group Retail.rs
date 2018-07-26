@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img (2)</name>
+   <name>p_Source The NPD Group Retail</name>
    <tag></tag>
-   <elementGuidId>906df39c-8c18-4032-b279-9e2dcbf56835</elementGuidId>
+   <elementGuidId>29bb5b3a-bdac-4f2d-be3b-7f3f22f94b4b</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,20 +11,22 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>img</value>
+      <value>p</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>src</name>
+      <name>text</name>
       <type>Main</type>
-      <value>/MediaOMP/2018/INT/01_INT_R4483_IntelLenov18/img/fb.png</value>
+      <value>
+             *Source: The NPD Group/ Retail Tracking Service / U.S. Actual Unit Sales (Retail &amp; Commercial Combined)/ Jan - Dec 2017
+            </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-share&quot;]/ul[1]/li[1]/a[@class=&quot;trm-fb cursor_on trackMe&quot;]/img[1]</value>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-pagewrap&quot;]/div[@class=&quot;trm-container&quot;]/div[@class=&quot;trm-branddisclaimer&quot;]/p[1]</value>
    </webElementProperties>
 </WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img (3)</name>
+   <name>img (5)</name>
    <tag></tag>
-   <elementGuidId>c77a82ba-d78b-45fe-9f87-d30e76ee9489</elementGuidId>
+   <elementGuidId>d74f2784-f931-49ef-bd1b-d7777f7f39aa</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,13 +18,13 @@
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/MediaOMP/2018/INT/01_INT_R4483_IntelLenov18/img/tt.png</value>
+      <value>/MediaOMP/2018/BIC/01_BIC_Q9308_BICBTS2018/img/mod-correction.jpg</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-share&quot;]/ul[1]/li[2]/a[@class=&quot;trm-tw cursor_on trackMe&quot;]/img[1]</value>
+      <value>id(&quot;jwvid-12b52db5-f2a8-4d50-9a86-64d6c31ce4ad&quot;)/img[1]</value>
    </webElementProperties>
 </WebElementEntity>
