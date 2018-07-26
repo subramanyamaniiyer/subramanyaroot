@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img (1)</name>
+   <name>img (2)</name>
    <tag></tag>
-   <elementGuidId>bc6e70d3-02fd-4877-97bf-997e569363eb</elementGuidId>
+   <elementGuidId>9a3e6990-c945-468d-a57c-69a36738d61c</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,13 +18,13 @@
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/MediaOMP/2018/INT/01_INT_R4483_IntelLenov18/img/speed.jpg</value>
+      <value>/MediaOMP/2018/CLX/01_CLX_S3891_BritaBPREV/img/nav-pitchers-dispensers.jpg</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-power-speed&quot;]/div[@class=&quot;trm-grid desk&quot;]/div[@class=&quot;trm-grid-col trm-speed&quot;]/img[1]</value>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-pagewrap&quot;]/div[@class=&quot;trm-container&quot;]/div[@class=&quot;trm-products-section&quot;]/div[@class=&quot;trm-products-nav slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/a[@class=&quot;slick-slide slick-active&quot;]/img[1]</value>
    </webElementProperties>
 </WebElementEntity>
