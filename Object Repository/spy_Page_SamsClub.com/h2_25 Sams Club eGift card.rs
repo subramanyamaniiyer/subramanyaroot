@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_Buy 75 in participating item</name>
+   <name>h2_25 Sams Club eGift card</name>
    <tag></tag>
-   <elementGuidId>1d3ba29d-0942-4e5f-9ebb-462ad078689b</elementGuidId>
+   <elementGuidId>20eb2366-6548-46bb-867a-6f397a411e53</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,28 +11,34 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>p</value>
+      <value>h2</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>cta-message</value>
+      <value>head__h2</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>h2Left</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Buy $75 in participating items** online,
-with Club Pickup, or using the Scan &amp; Go app.</value>
+      <value>$25 Sam’s Club eGift card*</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;MasterForm&quot;)/div[@class=&quot;positionRelative&quot;]/div[@class=&quot;main_content_full&quot;]/div[@class=&quot;container&quot;]/p[@class=&quot;cta-message&quot;]</value>
+      <value>id(&quot;h2Left&quot;)</value>
    </webElementProperties>
 </WebElementEntity>

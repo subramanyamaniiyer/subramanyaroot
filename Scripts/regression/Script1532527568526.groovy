@@ -27,11 +27,18 @@ WebUI.navigateToUrl('https://staging-samsclub.triadretail.net/Featured-Brand/Pep
 WebUI.maximizeWindow()
 
 //WebUI.verifyElementVisible(null,1, FailureHandling.CONTINUE_ON_FAILURE)
-WebUI.verifyElementVisible(findTestObject('Object Repository/spy_PageSave-with-Club-Pickup/div_get rewarded'), 1, FailureHandling.CONTINUE_ON_FAILURE)
+//WebUI.verifyElementVisible(findTestObject('null'), 1, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('spy_PageSave-with-Club-Pickup/img_hero_img animated fadeIn d'), 1, FailureHandling.CONTINUE_ON_FAILURE)
+//WebUI.verifyElementVisible(findTestObject('null'), 1, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Page_SamsClub.com - In Clubs Now -/img_hero_img animated fadeIn d'))
+//WebUI.click(findTestObject('Page_SamsClub.com - In Clubs Now -/img_hero_img animated fadeIn d'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/spy_Page_SamsClub.com/p_Shop for back-to-class and g'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/spy_Page_SamsClub.com/p_Buy 75 in participating item'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/spy_Page_SamsClub.com/img_hero_img animated fadeIn d'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/spy_Page_SamsClub.com/h2_25 Sams Club eGift card'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/spy_Page_SamsClub.com/div_Shop                Purcha'),1, FailureHandling.CONTINUE_ON_FAILURE)
+
 
 WebUI.closeBrowser()
 
