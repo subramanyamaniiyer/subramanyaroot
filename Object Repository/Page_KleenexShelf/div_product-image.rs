@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h2_Everyday Cards</name>
+   <name>div_product-image</name>
    <tag></tag>
-   <elementGuidId>51cf3c70-2382-45ec-b4d3-6099aeda2ac4</elementGuidId>
+   <elementGuidId>f8e1b05c-e6d0-4e4d-a013-d5c4db97a188</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,27 +11,20 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h2</value>
+      <value>div</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>desk-inline</value>
+      <value>product-image</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Everyday Cards</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-main-container&quot;]/section[@class=&quot;trm-cards-tabs trm-inner-wrap&quot;]/div[@class=&quot;trm-tabs&quot;]/h2[@class=&quot;desk-inline&quot;]</value>
+      <value>id(&quot;prods&quot;)/div[@class=&quot;stp--new-product-tile-container tablet&quot;]/div[@class=&quot;tile-container&quot;]/div[@class=&quot;stp--new-product-tile stp--new-product-tile-tablet&quot;]/div[@class=&quot;product-image&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

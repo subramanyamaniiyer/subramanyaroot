@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_desk</name>
+   <name>img</name>
    <tag></tag>
-   <elementGuidId>21a79878-5b71-4a4c-bbbd-a962fcbe78fe</elementGuidId>
+   <elementGuidId>2eaf5e93-d8a5-4032-9532-fef1aedb2364</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,20 +18,20 @@
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/MediaOMP/2018/AGC/01_AGC_P8202_AmeGreetcont/img/pov.jpg</value>
+      <value>/BrandPages/2018/kleenex/media/img/pov.jpg</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>alt</name>
       <type>Main</type>
-      <value>desk</value>
+      <value>Save up to 33% on select Kleenex® Brand products during Back to School</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-main-container&quot;]/section[@class=&quot;trm-pov&quot;]/img[@class=&quot;desk&quot;]</value>
+      <value>/html[1]/body[1]/div[@class=&quot;stp--container-wrap&quot;]/div[@class=&quot;pov&quot;]/img[1]</value>
    </webElementProperties>
 </WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h2_Everyday Gift Wrap</name>
+   <name>img</name>
    <tag></tag>
-   <elementGuidId>29c7f2fc-8961-4890-9878-1d8d7eceee6c</elementGuidId>
+   <elementGuidId>d956652b-5943-4b6a-b9b7-2b542b284dd8</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,20 +11,27 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h2</value>
+      <value>img</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>src</name>
       <type>Main</type>
-      <value>Everyday Gift Wrap</value>
+      <value>/BrandPages/2018/kleenex/media/img/pov.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Save up to 33% on select Kleenex® Brand products during Back to School</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-main-container&quot;]/section[@class=&quot;trm-cards-tabs trm-inner-wrap&quot;]/div[@class=&quot;trm-tabs&quot;]/h2[1]</value>
+      <value>/html[1]/body[1]/div[@class=&quot;stp--container-wrap&quot;]/div[@class=&quot;pov&quot;]/img[1]</value>
    </webElementProperties>
 </WebElementEntity>
