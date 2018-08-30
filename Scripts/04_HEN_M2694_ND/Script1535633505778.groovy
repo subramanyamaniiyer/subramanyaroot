@@ -18,13 +18,4 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKeywords
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
-import org.openqa.selenium.Keys as Keys
-
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://staging.cvs.triadretail.net/shop-assets/04_UNI_M7740_UNIHair18/')
-
-WebUI.click(findTestObject('04_UNI_M7740_Page_YourStyle/div_Upgrade your style with th'))
-
-WebUI.closeBrowser()
 

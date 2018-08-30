@@ -18,4 +18,13 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKeywords
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://staging.cvs.triadretail.net/shop-assets/04_HMK_M6836_HMKAnni18/')
+
+WebUI.click(findTestObject('04_HMK_M6836_Page_GreetingCards/img_img-rw trm-responsive-img'))
+
+WebUI.closeBrowser()
 

@@ -18,4 +18,13 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKeywords
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://staging.cvs.triadretail.net/shop-assets/04_CVS_I5538_GldEmblm/')
+
+WebUI.click(findTestObject('Page_Gold Emblem  CVS.com/img_img-rw trm-responsive-img'))
+
+WebUI.closeBrowser()
 

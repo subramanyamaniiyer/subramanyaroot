@@ -18,4 +18,13 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKeywords
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://staging.cvs.triadretail.net/shop-assets/04_JNJ_N1073_Allergy2018/')
+
+WebUI.click(findTestObject('04_JNJ_N1073_Page_JohnsonJohnson_Allergy/span_Johnson  Johnson Allergy'))
+
+WebUI.closeBrowser()
 
