@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Simpler sleek  premiumFeat</name>
+   <name>div_Castrol EDGE Extended Perf</name>
    <tag></tag>
-   <elementGuidId>6d62150b-d13b-4fa1-8866-a45793802ec9</elementGuidId>
+   <elementGuidId>d6d8db83-ade8-4341-b319-02bf385ac102</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,7 +18,7 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>trm-sleek-content</value>
+      <value>trm-mdl-clm col</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,15 +26,17 @@
       <name>text</name>
       <type>Main</type>
       <value>
-					Simpler, sleek &amp; premium
-					Featuring a streamlines chassis with a polished aluminum cover, the IdeaPad 330S is designed to make an impression. Available in Platinum Grey and Midnight Blue.
-				</value>
+			
+			Castrol® EDGE® Extended Performance
+			Castrol® EDGE® Extended Performance is a premium full synthetic oil that gives you added insurance to extend your drains up to 15,000 miles. The oil is specifically designed to ensure maximum performance in all-weather driving &amp; during more extreme applications such as towing &amp; hauling.
+			Buy now 
+		</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-sleeker&quot;]/div[@class=&quot;trm-sleek-slider slick-initialized slick-slider slick-dotted&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;trm-sleek slick-slide slick-current slick-active&quot;]/div[@class=&quot;trm-sleek-content&quot;]</value>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-page-wrap&quot;]/div[@class=&quot;trm-mdl-mod&quot;]/div[@class=&quot;trm-mdl-clm col&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

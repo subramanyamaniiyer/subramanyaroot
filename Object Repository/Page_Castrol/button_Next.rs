@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_trackMe</name>
+   <name>button_Next</name>
    <tag></tag>
-   <elementGuidId>502605a2-3a0d-47d8-90b9-bc8c4c6c8d4e</elementGuidId>
+   <elementGuidId>fb727daf-963b-4b19-b465-b706e8be9540</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,41 +11,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
+      <value>button</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>type</name>
       <type>Main</type>
-      <value>https://www.walmart.com/browse/ideapad-330s/0/0/?_refineresult=true&amp;_be_shelf_id=61096&amp;search_sort=100&amp;facet=shelf_id:61096</value>
+      <value>button</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>trackMe</value>
+      <value>elc-icon paginator-hairline-btn elc-icon-angle-right hide-content display-inline-block-m trackMe slick-arrow</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>omnitag</name>
       <type>Main</type>
-      <value>pov-1</value>
+      <value>Products Next Slide</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>omniint</name>
       <type>Main</type>
-      <value>s_objectID=&quot;https://www.walmart.com/browse/ideapad-330s/0/0/?_refineresult=true&amp;_be_shelf_id=61096&amp;search_sor_1&quot;;return this.s_oc?this.s_oc(e):true</value>
+      <value>interaction</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-pov-section&quot;]/div[@class=&quot;trm-pov-slider&quot;]/div[@class=&quot;trm-pov trm-pov-1&quot;]/a[@class=&quot;trackMe&quot;]</value>
+      <value>id(&quot;dynpricing-scroller&quot;)/button[@class=&quot;elc-icon paginator-hairline-btn elc-icon-angle-right hide-content display-inline-block-m trackMe slick-arrow&quot;]</value>
    </webElementProperties>
 </WebElementEntity>
