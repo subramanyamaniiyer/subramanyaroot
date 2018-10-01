@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>ul_123</name>
+   <name>div_65 Class 4K UHD Smart QLED</name>
    <tag></tag>
-   <elementGuidId>b50749f9-d147-4220-9977-6c2ba0f4e6ab</elementGuidId>
+   <elementGuidId>f372ce6a-f6ae-4f60-a6c5-25f45fe35d9f</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -11,34 +11,34 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>ul</value>
+      <value>div</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>carousel-paginator-list</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>tablist</value>
+      <value>col-lg-4 col-md-4 col-sm-6 col-xs-12 offers_box border_top border_right no_border_right</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>123</value>
+      <value>
+                
+                65&quot; Class 4K UHD Smart QLED HDR TV
+                $1,699
+                 $100 off
+                Buy Now 
+                Model # QN65Q65FNFXZA / Item # 980114619 Ends Sept. 30.
+            </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-efficient&quot;]/div[@class=&quot;trm-sleek-slider slick-initialized slick-slider slick-dotted&quot;]/ul[@class=&quot;carousel-paginator-list&quot;]</value>
+      <value>id(&quot;MasterForm&quot;)/div[@class=&quot;positionRelative&quot;]/div[@class=&quot;main_content_full&quot;]/section[@class=&quot;container container_one&quot;]/div[@class=&quot;col-lg-4 col-md-4 col-sm-6 col-xs-12 offers_box border_top border_right no_border_right&quot;]</value>
    </webElementProperties>
 </WebElementEntity>
