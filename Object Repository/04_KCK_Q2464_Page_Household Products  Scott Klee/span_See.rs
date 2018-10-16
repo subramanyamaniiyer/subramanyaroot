@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_See</name>
+   <tag></tag>
+   <elementGuidId>f15f5a36-34da-4f26-b1b0-9427850fa22e</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>See
+                        more</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;trm-page-wrap&quot;]/div[@class=&quot;trm-width-lock trm-grid&quot;]/div[@class=&quot;trm-body-load&quot;]/div[@class=&quot;trm-body-wrap&quot;]/div[@class=&quot;trm-module-7&quot;]/section[@class=&quot;trm-sections trm-tag-parent&quot;]/div[@class=&quot;trm-grid trm-body-wrap&quot;]/div[@class=&quot;trm-stacked-hero trm-stacked-hero-expand trm-row&quot;]/div[@class=&quot;trm-stack-expand&quot;]/a[@class=&quot;trm-see-more trm-tr&quot;]/span[1]</value>
+   </webElementProperties>
+</WebElementEntity>
