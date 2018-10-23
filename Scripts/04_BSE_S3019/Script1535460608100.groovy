@@ -19,5 +19,14 @@ WebUI.navigateToUrl('http://staging.cvs.triadretail.net/shop-assets/04_BSE_S3019
 
 WebUI.click(findTestObject('04_BSE_S3019_Page_Bose/img_img-rw trm-responsive-img'))
 
+//WebUI.verifyElementVisible(null,1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_BSE_S3019_spy_Page_Bose/section_Bose noise-masking sle'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_BSE_S3019_spy_Page_Bose/p_Our long history of innovati'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_BSE_S3019_spy_Page_Bose/img_img-rw trm-responsive-img'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_BSE_S3019_spy_Page_Bose/h1_Bose technology for better'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_BSE_S3019_spy_Page_Bose/div_Tiny earbuds for better sl'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_BSE_S3019_spy_Page_Bose/div_Bose noise-masking sleepbu'),1, FailureHandling.CONTINUE_ON_FAILURE)
+
 WebUI.closeBrowser()
 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_img-rw (3)</name>
+   <tag></tag>
+   <elementGuidId>a3f1342e-f082-4fb0-8d5b-e0b0a1c563e6</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-rw</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-img</name>
+      <type>Main</type>
+      <value>twc-promo.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//staging.cvs.triadretail.net/shop-assets/04_PFZ_T3341_PFZCCFSpon18/img/twc-promo.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>ExtraCare Card</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;trm-page-wrap&quot;]/div[@class=&quot;trm-width-lock trm-grid&quot;]/div[@class=&quot;trm-body-load&quot;]/div[@class=&quot;trm-body-wrap&quot;]/div[@class=&quot;trm-module-5&quot;]/section[@class=&quot;TWCmod trm-sections trm-tag-parent&quot;]/div[@class=&quot;trm-grid trm-body-wrap&quot;]/div[@class=&quot;trm-hz-responsive trm-border-bars&quot;]/div[@class=&quot;trm-hz-split&quot;]/img[@class=&quot;img-rw&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Fast  strong headache reli</name>
+   <tag></tag>
+   <elementGuidId>6c1f6ef4-9de6-4fde-8477-5d84e3405034</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trm-row trm-flex</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+					
+						Fast &amp; strong headache relief with Advil®
+						When you have a headache, every second counts. Get fast headache relief with Advil®. Advil® Film-Coated has a Rapid Release Formula that goes to work in minutes on tough pain. Nothing is faster or stronger on tough pain than Advil®.
+						Shop Advil
+					
+					
+							
+						
+				</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;trm-page-wrap&quot;]/div[@class=&quot;trm-width-lock trm-grid&quot;]/div[@class=&quot;trm-body-load&quot;]/div[@class=&quot;trm-bs trm-grid&quot;]/div[@class=&quot;trm-body-wrap&quot;]/div[@class=&quot;trm-grid&quot;]/div[@class=&quot;trm-stacked-hero trm-tag-parent&quot;]/div[@class=&quot;trm-row trm-flex&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
