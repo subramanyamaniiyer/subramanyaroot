@@ -26,5 +26,11 @@ WebUI.navigateToUrl('http://staging.cvs.triadretail.net/shop-assets/04_UNI_M7740
 
 WebUI.click(findTestObject('04_UNI_M7740_Page_YourStyle/div_Upgrade your style with th'))
 
+//WebUI.verifyElementVisible(null,1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_UNI_M7740_spy_Page_YourStyle/img_img-rw trm-responsive-img'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_UNI_M7740_spy_Page_YourStyle/div_Your Style Your Way'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_UNI_M7740_spy_Page_YourStyle/div_Upgrade your style with th'),1, FailureHandling.CONTINUE_ON_FAILURE)
+
 WebUI.closeBrowser()
 

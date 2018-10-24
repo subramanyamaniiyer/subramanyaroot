@@ -25,3 +25,12 @@ WebUI.navigateToUrl('http://staging.cvs.triadretail.net/shop-assets/04_PFZ_S3661
 
 WebUI.click(findTestObject('04_PFZ_S3661Page_Baby Products_Childrens_Healt/span_Baby  Child'))
 
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_S3661Page_Baby Products_Childrens_Healt/span_Baby  Child'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_S3661Page_Baby Products_Childrens_Healt/span_Baby  Child (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_S3661Page_Baby Products_Childrens_Healt/p_Weve got you covered.'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_S3661Page_Baby Products_Childrens_Healt/img_img-rw trm-desk-only trm-r'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_S3661Page_Baby Products_Childrens_Healt/h1_Plan big for more adventure'),1, FailureHandling.CONTINUE_ON_FAILURE)
+
+//WebUI.verifyElementVisible(null,1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.closeBrowser()

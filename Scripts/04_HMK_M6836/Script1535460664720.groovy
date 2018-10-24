@@ -26,5 +26,18 @@ WebUI.navigateToUrl('http://staging.cvs.triadretail.net/shop-assets/04_HMK_M6836
 
 WebUI.click(findTestObject('04_HMK_M6836_Page_GreetingCards/img_img-rw trm-responsive-img'))
 
+//WebUI.verifyElementVisible(null,1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_HMK_M6836_spy_Page_GreetingCards/img_img-rw trm-responsive-img'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_HMK_M6836_spy_Page_GreetingCards/img_img-rw trm-responsive-img (2)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_HMK_M6836_spy_Page_GreetingCards/img_img-rw trm-responsive-img (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_HMK_M6836_spy_Page_GreetingCards/img_img-rw trm-hero-fam trm-he'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_HMK_M6836_spy_Page_GreetingCards/img_img-rw trm-hero-fam trm-he (2)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_HMK_M6836_spy_Page_GreetingCards/img_img-rw trm-hero-fam trm-he (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_HMK_M6836_spy_Page_GreetingCards/div_Start every birthday with'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_HMK_M6836_spy_Page_GreetingCards/div_Save 3 on any purchase of'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_HMK_M6836_spy_Page_GreetingCards/div_Make your gifts truly stan'),1, FailureHandling.CONTINUE_ON_FAILURE)
+
+
 WebUI.closeBrowser()
 

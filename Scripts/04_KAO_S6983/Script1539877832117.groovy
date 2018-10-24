@@ -25,3 +25,27 @@ WebUI.navigateToUrl('http://staging.cvs.triadretail.net/shop-assets/04_KAO_S6983
 
 WebUI.click(findTestObject('04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/span_John Frieda Brand Shop'))
 
+//WebUI.verifyElementVisible(null,1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/span_John Frieda Brand Shop'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/span_John Frieda Brand Shop (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/img_img-rw trm-responsive-img'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/img_img-rw trm-responsive-img (4)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/img_img-rw trm-responsive-img (3)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/img_img-rw trm-responsive-img (2)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/img_img-rw trm-responsive-img (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/img_img-rw trm-hero-fam'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/img_img-rw trm-hero-fam (2)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/img_img-rw trm-hero-fam (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/div_Luxurious Volume. Speak vo'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/div_John Frieda Hair CareFor H'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/div_Frizz Ease. Be defined.Car'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/div_Color care. Never be dull.'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6983_Page_John Frieda Hair Care  Hairsty/div_col-1-2 trm-last'),1, FailureHandling.CONTINUE_ON_FAILURE)
+
+
+
+
+
+WebUI.closeBrowser()
+

@@ -25,3 +25,32 @@ WebUI.navigateToUrl('http://staging.cvs.triadretail.net/shop-assets/04_KAO_S6982
 
 WebUI.click(findTestObject('04_KAO_S6982_Page_Moisturizers  Deep hydration/span_Jergens Brand Shop'))
 
+//WebUI.verifyElementVisible(null,1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/span_Jergens Brand Shop'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/span_Jergens Brand Shop (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/p_Lock in the JERGENS moisture'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/p_Glides on smoothly.Locks in'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/img_img-rw'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/img_img-rw trm-responsive-img'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/img_img-rw trm-responsive-img (4)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/img_img-rw trm-responsive-img (3)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/img_img-rw trm-responsive-img (2)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/img_img-rw trm-responsive-img (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/img_img-rw trm-hero-fam'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/img_img-rw trm-hero-fam (3)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/img_img-rw trm-hero-fam (2)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/img_img-rw trm-hero-fam (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/img_img-rw (3)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/img_img-rw (2)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/img_img-rw (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/h1_Nourishing oils straight fr'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/h1_JERGENS Nourishing Oil Blen'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/div_Let your beautiful shineSh'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/div_Create your own sunshineNo'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/a_Shop Wet Skin moisturizers'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_KAO_S6982_Page_Moisturizers  Deep hydration/a_Shop Oil Infused moisturizer'),1, FailureHandling.CONTINUE_ON_FAILURE)
+
+
+WebUI.closeBrowser()
+

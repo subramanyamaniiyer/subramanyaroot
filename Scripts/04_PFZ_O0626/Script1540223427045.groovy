@@ -25,3 +25,53 @@ WebUI.navigateToUrl('http://staging.cvs.triadretail.net/shop-assets/04_PFZ_O0626
 
 WebUI.click(findTestObject('Object Repository/Page_Advil  CVS.com/span_Advil'))
 
+
+//WebUI.verifyElementVisible(null,1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/span_Advil'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/span_Advil (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/p_Why Because Advil provides r'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/p_Whether you have occasional'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/p_When you have a headache eve'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/p_Trust Advil Migraine for fas'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/p_Take the pain out of pain re'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/p_Fast powerful pain relief in'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/p_Advil Tablets and Advil Film'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/img_img-rw trm-responsive-img'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/img_img-rw trm-responsive-img (7)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/img_img-rw trm-responsive-img (6)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/img_img-rw trm-responsive-img (5)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/img_img-rw trm-responsive-img (4)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/img_img-rw trm-responsive-img (3)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/img_img-rw trm-responsive-img (2)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/img_img-rw trm-responsive-img (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/img_img-rw trm-hero-fam'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/img_img-rw trm-hero-fam (6)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/img_img-rw trm-hero-fam (5)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/img_img-rw trm-hero-fam (4)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/img_img-rw trm-hero-fam (3)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/img_img-rw trm-hero-fam (2)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/img_img-rw trm-hero-fam (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/h1_Relief thats fast strength'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/h1_Minor arthritis and joint p'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/h1_Get clinically proven migra'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/h1_Fight tough menstrual cramp'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/h1_Fast  strong headache relie'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/h1_Advil LIQUI-GELS minis'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/h1_1 choice for tough pain day'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/div_Relief thats fast strength'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/div_Minor arthritis and joint'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/div_LIQUI-GELS is a trademark'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/div_Get clinically proven migr'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/div_Fight tough menstrual cram'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/div_Fast  strong headache reli'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/div_1 choice for tough pain da'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/a_Shop Advil'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/a_Shop Advil Migraine'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_PFZ_O0626_Page_Advil  CVS.com/a_Shop Advil LIQUI-GELS minis'),1, FailureHandling.CONTINUE_ON_FAILURE)
+
+
+
+
+WebUI.closeBrowser()
+

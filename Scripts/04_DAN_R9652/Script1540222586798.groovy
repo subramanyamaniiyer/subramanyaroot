@@ -25,3 +25,16 @@ WebUI.navigateToUrl('http://staging.cvs.triadretail.net/shop-assets/04_DAN_R9652
 
 WebUI.click(findTestObject('04_DAN_R9652_Page_Responsive Hero Zone/div_Danone US LLC'))
 
+//WebUI.verifyElementVisible(null,1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_DAN_R9652_Page_Responsive Hero Zone/p_Stock up and save on back-to'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_DAN_R9652_Page_Responsive Hero Zone/img'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_DAN_R9652_Page_Responsive Hero Zone/h2_Save 1 on all Danimals mult'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_DAN_R9652_Page_Responsive Hero Zone/div_Save 1 on all Danimals mul'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_DAN_R9652_Page_Responsive Hero Zone/div_Danone US LLC'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_DAN_R9652_Page_Responsive Hero Zone/div_Danone US LLC (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_DAN_R9652_Page_Responsive Hero Zone/a_Get coupon'),1, FailureHandling.CONTINUE_ON_FAILURE)
+
+
+WebUI.closeBrowser()
+

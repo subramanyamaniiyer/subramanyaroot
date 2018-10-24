@@ -26,5 +26,32 @@ WebUI.navigateToUrl('http://staging.cvs.triadretail.net/shop-assets/04_JNJ_N1073
 
 WebUI.click(findTestObject('04_JNJ_N1073_Page_JohnsonJohnson_Allergy/span_Johnson  Johnson Allergy'))
 
+//WebUI.verifyElementVisible(null,1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/img_img-rw'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/img_img-rw trm-responsive-img'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/img_img-rw trm-responsive-img (5)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/img_img-rw trm-responsive-img (4)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/img_img-rw trm-responsive-img (3)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/img_img-rw trm-responsive-img (2)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/img_img-rw trm-responsive-img (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/img_img-rw trm-hero-fam'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/img_img-rw trm-hero-fam (3)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/img_img-rw trm-hero-fam (2)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/img_img-rw trm-hero-fam (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/img_img-rw (4)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/img_img-rw (3)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/img_img-rw (2)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/img_img-rw (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/h1_RHINOCORT works all day and'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/h1_Clinically proven effective'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/div_ZYRTEC works fast and stay'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/div_Use only as directed.'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/div_Put your allergies to rest'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/div_Home  Brand Directory  Joh'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_JNJ_N1073_spy_Page_Johnson_Johnson_Allergy/div_Conquer allergiesBuild you'),1, FailureHandling.CONTINUE_ON_FAILURE)
+
+
+
 WebUI.closeBrowser()
 

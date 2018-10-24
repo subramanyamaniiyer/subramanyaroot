@@ -19,3 +19,19 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://staging.cvs.triadretail.net/shop-assets/04_DAN_Q8804_StokBrew18Q2/bz/')
+
+WebUI.click(findTestObject('04_DAN_Q8804_Page_Responsive Hero Zone/div_Coupon redeemable in store'))
+
+//WebUI.verifyElementVisible(null,1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_DAN_Q8804_Page_Responsive Hero Zone/img'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_DAN_Q8804_Page_Responsive Hero Zone/h2_Save 2 on Silk and STK beve'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_DAN_Q8804_Page_Responsive Hero Zone/div_Save 2 on Silk and STK bev'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_DAN_Q8804_Page_Responsive Hero Zone/div_Get coupon'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/04_DAN_Q8804_Page_Responsive Hero Zone/div_Coupon redeemable in store'),1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.closeBrowser()
+
