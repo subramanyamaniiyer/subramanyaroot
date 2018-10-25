@@ -1,0 +1,59 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.checkpoint.CheckpointFactory as CheckpointFactory
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as MobileBuiltInKeywords
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testcase.TestCaseFactory as TestCaseFactory
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testdata.TestDataFactory as TestDataFactory
+import com.kms.katalon.core.testobject.ObjectRepository as ObjectRepository
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WSBuiltInKeywords
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKeywords
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://staging-samsclub.triadretail.net/Featured-Brand/Sams-Club/Holiday-Entertaining/')
+
+WebUI.click(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/h1_Grocery'))
+//WebUI.verifyElementVisible(null,1, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/p_Shop All'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/nav_Menu'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/img_tablet-plus'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/img_tablet-plus (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/img'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/img (9)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/img (8)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/img (7)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/img (6)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/img (5)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/img (4)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/img (3)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/img (2)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/img (10)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/img (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/h2_Let the feast begin.'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/h1_Grocery'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/h1_Grocery (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/div_Fresh Food'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/div_Appetizers'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/div_Appetizers (1)'),1, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Groceries - Best Prices  Sams/div_123'),1, FailureHandling.CONTINUE_ON_FAILURE)
+
+
+
+
+
+
+WebUI.closeBrowser()
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Grocery</name>
+   <tag></tag>
+   <elementGuidId>f45463c5-9803-4abb-89c8-77ffd1fa2e65</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>catLeftTitle</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grocery</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MasterForm&quot;)/div[@class=&quot;main_content_full&quot;]/div[@class=&quot;pov_wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/nav[@class=&quot;col-sm-4&quot;]/h1[@class=&quot;catLeftTitle&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
