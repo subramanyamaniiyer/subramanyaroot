@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img (1)</name>
+   <name>img_trm-desktop (2)</name>
    <tag></tag>
-   <elementGuidId>bc6e70d3-02fd-4877-97bf-997e569363eb</elementGuidId>
+   <elementGuidId>d85a8cb1-421b-4ce9-a8fe-61b62b310bf7</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -18,13 +18,20 @@
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/MediaOMP/2018/INT/01_INT_R4483_IntelLenov18/img/speed.jpg</value>
+      <value>/MediaOMP/2018/WIL/01_WIL_M4477_WILTONGINBRD/img/gingerbread-red.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trm-desktop</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/main[@class=&quot;trm-main&quot;]/section[@class=&quot;trm-power-speed&quot;]/div[@class=&quot;trm-grid desk&quot;]/div[@class=&quot;trm-grid-col trm-speed&quot;]/img[1]</value>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-pagewrap&quot;]/div[@class=&quot;trm-container&quot;]/div[@class=&quot;trm-gbhouse&quot;]/div[@class=&quot;trm-gbsection&quot;]/img[@class=&quot;trm-desktop&quot;]</value>
    </webElementProperties>
 </WebElementEntity>
