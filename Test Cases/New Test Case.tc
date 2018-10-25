@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>regg</name>
+   <name>New Test Case</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>328f7adc-fc70-4b78-bada-7d5f5e23f5f7</testCaseGuid>
+   <testCaseGuid>b1c3f105-197a-45ce-b8dd-d3fd8a7583e4</testCaseGuid>
 </TestCaseEntity>
