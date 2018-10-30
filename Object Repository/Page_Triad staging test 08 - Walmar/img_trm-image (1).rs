@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_trm-image (1)</name>
+   <tag></tag>
+   <elementGuidId>72e37aef-2eb0-43fe-a742-142cb5239a77</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://static-walmart.secure.footprint.net/PageBuilds/CRK/01_CRK_T5987_CricketQ418/img/map.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trm-image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;plans-zone&quot;)/div[@class=&quot;trm-brandpage&quot;]/div[@class=&quot;trm-col-wrap&quot;]/div[@class=&quot;trm-col-right&quot;]/a[@class=&quot;trm-modsec&quot;]/span[@class=&quot;trm-image-wrap&quot;]/img[@class=&quot;trm-image&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Triad staging test 08 - Walmar/iframe_iframe-contentZone3 (1)</value>
+   </webElementProperties>
+</WebElementEntity>
