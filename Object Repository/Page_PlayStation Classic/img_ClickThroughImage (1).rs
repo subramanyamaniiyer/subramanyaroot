@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_ClickThroughImage (1)</name>
+   <tag></tag>
+   <elementGuidId>5f15d572-ef15-4ccc-90e8-41470a6d5e13</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Playstation VR</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Playstation VR</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//i5.walmartimages.com/dfw/4ff9c6c9-8259/k2-_41c8d8af-a505-4369-90c8-bb9acc4b0004.v1.jpg?odnWidth=670&amp;odnHeight=570&amp;odnBg=ffffff</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ClickThroughImage</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cp-center-module-4&quot;)/span[1]/div[@class=&quot;TwoPanelStory ResponsiveContainer TwoPanelStory-grid TwoPanelStory-mediumLarge-data&quot;]/div[@class=&quot;Grid&quot;]/div[@class=&quot;Grid-col u-size-1-1 TwoPanelStory-imageWrapper u-size-1-2-m&quot;]/div[@class=&quot;TwoPanelStory-contentHolder&quot;]/a[@class=&quot;ClickThroughImage-link display-block&quot;]/img[@class=&quot;ClickThroughImage&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
