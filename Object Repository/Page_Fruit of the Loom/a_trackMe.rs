@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_trackMe</name>
+   <tag></tag>
+   <elementGuidId>d78f0b33-99de-47a9-b18f-f0e7e45790dc</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.walmart.com/search/?cat_id=0&amp;facet=facet_product_type%3ASweatpants%7C%7Cfacet_product_type%3ASweatshirts+%26+Hoodies%7C%7Cretailer%3AWalmart.com%7C%7Cbrand%3AFruit+of+the+Loom&amp;query=Fruit+of+the+Loom+Eversoft+fleece#searchProductResult</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trackMe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>omnitag</name>
+      <type>Main</type>
+      <value>POV-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>s_objectID=&quot;https://www.walmart.com/search/?cat_id=0&amp;facet=facet_product_type%3ASweatpants%7C%7Cfacet_product_1&quot;;return this.s_oc?this.s_oc(e):true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;trmWrap&quot;)/div[@class=&quot;trm-content&quot;]/div[@class=&quot;trm-banner&quot;]/div[@class=&quot;trm-pov-module&quot;]/div[@class=&quot;trm-pov-slider pov-1 slick-initialized slick-slider slick-dotted&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;trm-pov-wrap slick-slide slick-current slick-active&quot;]/a[@class=&quot;trackMe&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
