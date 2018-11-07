@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>ef3760f8-1edd-4d26-8781-fca2dc9fd497</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>Media/images/bundle.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MasterForm&quot;)/div[@class=&quot;positionRelative&quot;]/div[@class=&quot;main_content_full&quot;]/section[@class=&quot;container container_top&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-12 col-xs-12 border_right no_border_right offer_one offer&quot;]/div[@class=&quot;details_table_image&quot;]/img[1]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_img_width</name>
+   <tag></tag>
+   <elementGuidId>a3e10b13-aa21-4b6e-b4e5-45f9fc48d70d</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>Media/images/POV_Samsung.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img_width</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MasterForm&quot;)/div[@class=&quot;positionRelative&quot;]/div[@class=&quot;main_content_full&quot;]/section[@class=&quot;container pov_container&quot;]/div[@class=&quot;row desktop&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/img[@class=&quot;img_width&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
