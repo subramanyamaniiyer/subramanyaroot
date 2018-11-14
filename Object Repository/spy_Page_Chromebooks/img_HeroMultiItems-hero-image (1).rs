@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_HeroMultiItems-hero-image (1)</name>
+   <tag></tag>
+   <elementGuidId>4e232b8e-a06e-4e83-b8c1-8f38b085c907</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://i5.walmartimages.com/dfw/4ff9c6c9-18c6/k2-_5fcaca2b-a410-4fad-b181-af65550bf459.v1.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>HeroMultiItems-hero-image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js main-html-body&quot;]/body[@class=&quot;align-center tempo-module&quot;]/div[@class=&quot;trm-product-tab&quot;]/div[@class=&quot;trm-product-col&quot;]/img[@class=&quot;HeroMultiItems-hero-image&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/spy_Page_Chromebooks/iframe_iframe-84f6efbb-af5c-45</value>
+   </webElementProperties>
+</WebElementEntity>

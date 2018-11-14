@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_MultiStoryModule-overlayLink</name>
+   <tag></tag>
+   <elementGuidId>d63267a3-2961-4eda-863c-2a7df0ab8b4e</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MultiStoryModule-overlayLink</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Premium hardware Premium hardware We've taken Chromebooks to an all-new level with premium features &amp; beautiful design.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-uid</name>
+      <type>Main</type>
+      <value>CwUhNGPQ</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;centerContent&quot;)/div[1]/span[5]/div[@class=&quot;MultiStoryModule Grid Grid--gutters&quot;]/div[@class=&quot;Grid-col
+                    u-size-1-3-m
+                    u-size-1-2-xs
+                    MultiStoryModule-tile
+                    MultiStoryModule-tile-0&quot;]/a[@class=&quot;MultiStoryModule-overlayLink&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
