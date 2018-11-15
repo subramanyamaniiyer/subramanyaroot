@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_tile-link-overlay u-focusTil (5)</name>
+   <tag></tag>
+   <elementGuidId>02b7654a-debf-4b5c-9908-307c73d3e7e6</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tile-link-overlay u-focusTile</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-uid</name>
+      <type>Main</type>
+      <value>633VC1E3IZD1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-product-id</name>
+      <type>Main</type>
+      <value>633VC1E3IZD1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value> Straight Talk Apple 6s Plus with Free $45 Airtime --  32GB Prepaid Smartphone, Space Gray with free $45 Straight Talk Unlimited 30 Day Plan. Average rating: 4.2 out of 5 stars based on 3385 reviews. Price $399.00.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/nco/Straight-Talk-Apple-6s-Plus-with-Free-45-Airtime-32GB-Prepaid-Smartphone-Space-Gray-with-free-45-Straight-Talk-Unlimited-30-Day-Plan/764929622</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tl-id</name>
+      <type>Main</type>
+      <value>categorypage-TempoItemTile-1-overlay</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cp-center-module-3&quot;)/span[1]/div[@class=&quot;TempoTileCarousel ResponsiveContainer ItemCuratedCarousel&quot;]/div[@class=&quot;persistent-controls&quot;]/div[@class=&quot;slider&quot;]/div[@class=&quot;slider-frame&quot;]/ul[@class=&quot;slider-list&quot;]/li[@class=&quot;slider-slide&quot;]/div[@class=&quot;item-tile&quot;]/div[@class=&quot;tile&quot;]/a[@class=&quot;tile-link-overlay u-focusTile&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

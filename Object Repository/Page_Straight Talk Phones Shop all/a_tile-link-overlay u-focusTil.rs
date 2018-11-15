@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_tile-link-overlay u-focusTil</name>
+   <tag></tag>
+   <elementGuidId>470ab630-1955-4a67-8ee9-f22d7860e3e6</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tile-link-overlay u-focusTile</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-uid</name>
+      <type>Main</type>
+      <value>5ZNGPBNJCIPU</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-product-id</name>
+      <type>Main</type>
+      <value>5ZNGPBNJCIPU</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value> Straight Talk LG Premier Pro Prepaid Smartphone. Price $89.99.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ip/Straight-Talk-LG-Premier-Pro-Prepaid-Smartphone/226433298</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tl-id</name>
+      <type>Main</type>
+      <value>categorypage-TempoItemTile-0-overlay</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cp-center-module-0&quot;)/span[1]/div[@class=&quot;TempoTileCarousel ResponsiveContainer ItemCuratedCarousel&quot;]/div[@class=&quot;persistent-controls&quot;]/div[@class=&quot;slider&quot;]/div[@class=&quot;slider-frame&quot;]/ul[@class=&quot;slider-list&quot;]/li[@class=&quot;slider-slide&quot;]/div[@class=&quot;item-tile&quot;]/div[@class=&quot;tile&quot;]/a[@class=&quot;tile-link-overlay u-focusTile&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
