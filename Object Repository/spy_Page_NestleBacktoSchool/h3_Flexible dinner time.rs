@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Flexible dinner time</name>
+   <tag></tag>
+   <elementGuidId>190036d3-abae-4e93-9467-f2d4b44b8182</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trackMe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>omnitag</name>
+      <type>Main</type>
+      <value>Tips-FlexibleDinnerTime</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Flexible dinner time?</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-pagewrap&quot;]/div[@class=&quot;trm-container&quot;]/div[@class=&quot;trm-zigzag-section&quot;]/div[@class=&quot;trm-zigzag-col&quot;]/h3[@class=&quot;trackMe&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

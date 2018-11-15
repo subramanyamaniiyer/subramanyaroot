@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>972ddf10-41f2-4a0e-83bd-2833ca3c369b</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/MediaOMP/2018/NES/01_NES_S5385_NUSABTS2018/img/pov-morning.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContentPlaceHolder1_C001_divContent&quot;)/div[@class=&quot;trmBodyContent&quot;]/div[@class=&quot;trm-pagewrap&quot;]/div[@class=&quot;trm-container&quot;]/div[@class=&quot;trm-pov-module&quot;]/div[@class=&quot;trm-pov-slider slick-initialized slick-slider slick-dotted&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/a[@class=&quot;trm-pov-slide trackMe slick-slide slick-current slick-active&quot;]/div[@class=&quot;trm-pov-imgwrapper&quot;]/img[1]</value>
+   </webElementProperties>
+</WebElementEntity>
