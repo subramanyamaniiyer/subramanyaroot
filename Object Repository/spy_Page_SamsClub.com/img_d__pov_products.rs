@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_d__pov_products</name>
+   <tag></tag>
+   <elementGuidId>53ffe85d-5f35-4079-afa1-df8c7b597adf</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>Media/images/desktop/pov_products.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d__pov_products</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MasterForm&quot;)/div[@class=&quot;positionRelative&quot;]/div[@class=&quot;main_content_full_A&quot;]/div[@class=&quot;container pov_wrap&quot;]/section[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-7 col-sm-12 col-xs-12&quot;]/img[@class=&quot;d__pov_products&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
