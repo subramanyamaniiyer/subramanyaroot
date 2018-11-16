@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img (5)</name>
+   <tag></tag>
+   <elementGuidId>a64fc16b-2a4f-41c2-9183-c82a54f4ff8d</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>Media/images/1st-prize_w.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MasterForm&quot;)/div[@class=&quot;positionRelative&quot;]/div[@class=&quot;main_content_full&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;prizes-container&quot;]/div[@class=&quot;prize-list-container&quot;]/ul[@class=&quot;prize-list&quot;]/li[1]/img[1]</value>
+   </webElementProperties>
+</WebElementEntity>

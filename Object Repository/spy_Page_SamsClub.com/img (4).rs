@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img (4)</name>
+   <tag></tag>
+   <elementGuidId>23203942-ae98-4a92-8787-d49351b72c18</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>Media/images/pov-kid_w.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MasterForm&quot;)/div[@class=&quot;positionRelative&quot;]/div[@class=&quot;main_content_full&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;pov-container&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;kid-image&quot;]/img[1]</value>
+   </webElementProperties>
+</WebElementEntity>
