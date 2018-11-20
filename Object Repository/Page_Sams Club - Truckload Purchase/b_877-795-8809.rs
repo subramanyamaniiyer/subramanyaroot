@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_877-795-8809</name>
+   <tag></tag>
+   <elementGuidId>052c0128-af5c-4f3b-b84e-0b2869e3806d</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>877-795-8809</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TRM_Content&quot;)/div[@class=&quot;grid_10 floatLeft midMods&quot;]/div[@class=&quot;middleLeftMod floatLeft&quot;]/ol[1]/li[2]/b[1]</value>
+   </webElementProperties>
+</WebElementEntity>
