@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Dog</name>
+   <tag></tag>
+   <elementGuidId>e57355d0-d60d-4a75-aedf-231a028b9787</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dog</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;trm-wrap&quot;)/div[@class=&quot;trm-container&quot;]/div[@class=&quot;trm-tool-section&quot;]/div[@class=&quot;trm-tool-container&quot;]/a[@class=&quot;active trackMe&quot;]/p[1]</value>
+   </webElementProperties>
+</WebElementEntity>
